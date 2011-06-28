@@ -1,0 +1,6 @@
+.svn
+*.suo
+/**/*.csproj.user
+/**/.svn
+/**/bin
+/**/obj

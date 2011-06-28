@@ -1,0 +1,2096 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1472]C:\program files\NUnit 2.4.8\bin\nunit.framework.tests.dll</TopNode>
+  <SelectedNode>[0-1000]C:\program files\NUnit 2.4.8\bin\NUnitTests.nunit</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\program files\NUnit 2.4.8\bin\NUnitTests.nunit" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1472]C:\program files\NUnit 2.4.8\bin\nunit.framework.tests.dll" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1473]NUnit" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1474]NUnit.Framework" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1475]NUnit.Framework.Constraints" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1476]NUnit.Framework.Constraints.Tests" Expanded="true">
+                          <Nodes>
+                            <Node UniqueName="[0-1073]NUnit.Framework.Constraints.Tests.AllItemsTests">
+                              <Nodes>
+                                <Node UniqueName="[0-1076]NUnit.Framework.Constraints.Tests.AllItemsTests.AllItemsAreInRange" />
+                                <Node UniqueName="[0-1077]NUnit.Framework.Constraints.Tests.AllItemsTests.AllItemsAreInRangeFailureMessage" />
+                                <Node UniqueName="[0-1078]NUnit.Framework.Constraints.Tests.AllItemsTests.AllItemsAreInstancesOfType" />
+                                <Node UniqueName="[0-1079]NUnit.Framework.Constraints.Tests.AllItemsTests.AllItemsAreInstancesOfTypeFailureMessage" />
+                                <Node UniqueName="[0-1074]NUnit.Framework.Constraints.Tests.AllItemsTests.AllItemsAreNotNull" />
+                                <Node UniqueName="[0-1075]NUnit.Framework.Constraints.Tests.AllItemsTests.AllItemsAreNotNullFails" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1052]NUnit.Framework.Constraints.Tests.AndTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1053]NUnit.Framework.Constraints.Tests.AndTest.CanCombineTestsWithAndOperator" />
+                                <Node UniqueName="[0-1055]NUnit.Framework.Constraints.Tests.AndTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1056]NUnit.Framework.Constraints.Tests.AndTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1057]NUnit.Framework.Constraints.Tests.AndTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1054]NUnit.Framework.Constraints.Tests.AndTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1095]NUnit.Framework.Constraints.Tests.AssignableFromTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1097]NUnit.Framework.Constraints.Tests.AssignableFromTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1098]NUnit.Framework.Constraints.Tests.AssignableFromTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1099]NUnit.Framework.Constraints.Tests.AssignableFromTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1096]NUnit.Framework.Constraints.Tests.AssignableFromTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1080]NUnit.Framework.Constraints.Tests.CollectionContainsTests">
+                              <Nodes>
+                                <Node UniqueName="[0-1081]NUnit.Framework.Constraints.Tests.CollectionContainsTests.CanTestContentsOfArray" />
+                                <Node UniqueName="[0-1082]NUnit.Framework.Constraints.Tests.CollectionContainsTests.CanTestContentsOfArrayList" />
+                                <Node UniqueName="[0-1084]NUnit.Framework.Constraints.Tests.CollectionContainsTests.CanTestContentsOfCollectionNotImplementingIList" />
+                                <Node UniqueName="[0-1083]NUnit.Framework.Constraints.Tests.CollectionContainsTests.CanTestContentsOfSortedList" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1006]NUnit.Framework.Constraints.Tests.EmptyTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1009]NUnit.Framework.Constraints.Tests.EmptyTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1007]NUnit.Framework.Constraints.Tests.EmptyTest.NullGivesArgumentException" />
+                                <Node UniqueName="[0-1010]NUnit.Framework.Constraints.Tests.EmptyTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1011]NUnit.Framework.Constraints.Tests.EmptyTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1008]NUnit.Framework.Constraints.Tests.EmptyTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1120]NUnit.Framework.Constraints.Tests.EndsWithTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1122]NUnit.Framework.Constraints.Tests.EndsWithTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1123]NUnit.Framework.Constraints.Tests.EndsWithTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1124]NUnit.Framework.Constraints.Tests.EndsWithTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1121]NUnit.Framework.Constraints.Tests.EndsWithTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1125]NUnit.Framework.Constraints.Tests.EndsWithTestIgnoringCase">
+                              <Nodes>
+                                <Node UniqueName="[0-1127]NUnit.Framework.Constraints.Tests.EndsWithTestIgnoringCase.FailsOnBadValues" />
+                                <Node UniqueName="[0-1128]NUnit.Framework.Constraints.Tests.EndsWithTestIgnoringCase.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1129]NUnit.Framework.Constraints.Tests.EndsWithTestIgnoringCase.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1126]NUnit.Framework.Constraints.Tests.EndsWithTestIgnoringCase.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1130]NUnit.Framework.Constraints.Tests.EqualIgnoringCaseTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1132]NUnit.Framework.Constraints.Tests.EqualIgnoringCaseTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1133]NUnit.Framework.Constraints.Tests.EqualIgnoringCaseTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1134]NUnit.Framework.Constraints.Tests.EqualIgnoringCaseTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1131]NUnit.Framework.Constraints.Tests.EqualIgnoringCaseTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1012]NUnit.Framework.Constraints.Tests.EqualTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1018]NUnit.Framework.Constraints.Tests.EqualTest.CanCompareDates" />
+                                <Node UniqueName="[0-1019]NUnit.Framework.Constraints.Tests.EqualTest.CanCompareDatesWithinTolerance" />
+                                <Node UniqueName="[0-1013]NUnit.Framework.Constraints.Tests.EqualTest.FailedStringMatchShowsFailurePosition" />
+                                <Node UniqueName="[0-1021]NUnit.Framework.Constraints.Tests.EqualTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1014]NUnit.Framework.Constraints.Tests.EqualTest.LongStringsAreTruncated" />
+                                <Node UniqueName="[0-1015]NUnit.Framework.Constraints.Tests.EqualTest.LongStringsAreTruncatedAtBothEndsIfNecessary" />
+                                <Node UniqueName="[0-1016]NUnit.Framework.Constraints.Tests.EqualTest.LongStringsAreTruncatedAtFrontEndIfNecessary" />
+                                <Node UniqueName="[0-1017]NUnit.Framework.Constraints.Tests.EqualTest.NANsCompareAsEqual" />
+                                <Node UniqueName="[0-1022]NUnit.Framework.Constraints.Tests.EqualTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1023]NUnit.Framework.Constraints.Tests.EqualTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1020]NUnit.Framework.Constraints.Tests.EqualTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1085]NUnit.Framework.Constraints.Tests.ExactTypeTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1087]NUnit.Framework.Constraints.Tests.ExactTypeTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1088]NUnit.Framework.Constraints.Tests.ExactTypeTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1089]NUnit.Framework.Constraints.Tests.ExactTypeTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1086]NUnit.Framework.Constraints.Tests.ExactTypeTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1031]NUnit.Framework.Constraints.Tests.GreaterThanOrEqualTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1033]NUnit.Framework.Constraints.Tests.GreaterThanOrEqualTest.BadTypeGivesError" />
+                                <Node UniqueName="[0-1035]NUnit.Framework.Constraints.Tests.GreaterThanOrEqualTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1032]NUnit.Framework.Constraints.Tests.GreaterThanOrEqualTest.NullGivesError" />
+                                <Node UniqueName="[0-1036]NUnit.Framework.Constraints.Tests.GreaterThanOrEqualTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1037]NUnit.Framework.Constraints.Tests.GreaterThanOrEqualTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1034]NUnit.Framework.Constraints.Tests.GreaterThanOrEqualTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1024]NUnit.Framework.Constraints.Tests.GreaterThanTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1026]NUnit.Framework.Constraints.Tests.GreaterThanTest.BadTypeGivesError" />
+                                <Node UniqueName="[0-1028]NUnit.Framework.Constraints.Tests.GreaterThanTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1025]NUnit.Framework.Constraints.Tests.GreaterThanTest.NullGivesError" />
+                                <Node UniqueName="[0-1029]NUnit.Framework.Constraints.Tests.GreaterThanTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1030]NUnit.Framework.Constraints.Tests.GreaterThanTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1027]NUnit.Framework.Constraints.Tests.GreaterThanTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1090]NUnit.Framework.Constraints.Tests.InstanceOfTypeTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1092]NUnit.Framework.Constraints.Tests.InstanceOfTypeTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1093]NUnit.Framework.Constraints.Tests.InstanceOfTypeTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1094]NUnit.Framework.Constraints.Tests.InstanceOfTypeTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1091]NUnit.Framework.Constraints.Tests.InstanceOfTypeTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1045]NUnit.Framework.Constraints.Tests.LessThanOrEqualTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1047]NUnit.Framework.Constraints.Tests.LessThanOrEqualTest.BadTypeGivesError" />
+                                <Node UniqueName="[0-1049]NUnit.Framework.Constraints.Tests.LessThanOrEqualTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1046]NUnit.Framework.Constraints.Tests.LessThanOrEqualTest.NullGivesError" />
+                                <Node UniqueName="[0-1050]NUnit.Framework.Constraints.Tests.LessThanOrEqualTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1051]NUnit.Framework.Constraints.Tests.LessThanOrEqualTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1048]NUnit.Framework.Constraints.Tests.LessThanOrEqualTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1038]NUnit.Framework.Constraints.Tests.LessThanTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1040]NUnit.Framework.Constraints.Tests.LessThanTest.BadTypeGivesError" />
+                                <Node UniqueName="[0-1042]NUnit.Framework.Constraints.Tests.LessThanTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1039]NUnit.Framework.Constraints.Tests.LessThanTest.NullGivesError" />
+                                <Node UniqueName="[0-1043]NUnit.Framework.Constraints.Tests.LessThanTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1044]NUnit.Framework.Constraints.Tests.LessThanTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1041]NUnit.Framework.Constraints.Tests.LessThanTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1058]NUnit.Framework.Constraints.Tests.NotTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1062]NUnit.Framework.Constraints.Tests.NotTest.CanUseNotOperator" />
+                                <Node UniqueName="[0-1064]NUnit.Framework.Constraints.Tests.NotTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1059]NUnit.Framework.Constraints.Tests.NotTest.NotHonorsIgnoreCaseUsingConstructors" />
+                                <Node UniqueName="[0-1060]NUnit.Framework.Constraints.Tests.NotTest.NotHonorsIgnoreCaseUsingPrefixNotation" />
+                                <Node UniqueName="[0-1061]NUnit.Framework.Constraints.Tests.NotTest.NotHonorsTolerance" />
+                                <Node UniqueName="[0-1065]NUnit.Framework.Constraints.Tests.NotTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1066]NUnit.Framework.Constraints.Tests.NotTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1063]NUnit.Framework.Constraints.Tests.NotTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1067]NUnit.Framework.Constraints.Tests.OrTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1068]NUnit.Framework.Constraints.Tests.OrTest.CanCombineTestsWithOrOperator" />
+                                <Node UniqueName="[0-1070]NUnit.Framework.Constraints.Tests.OrTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1071]NUnit.Framework.Constraints.Tests.OrTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1072]NUnit.Framework.Constraints.Tests.OrTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1069]NUnit.Framework.Constraints.Tests.OrTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1001]NUnit.Framework.Constraints.Tests.SameAsTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1003]NUnit.Framework.Constraints.Tests.SameAsTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1004]NUnit.Framework.Constraints.Tests.SameAsTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1005]NUnit.Framework.Constraints.Tests.SameAsTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1002]NUnit.Framework.Constraints.Tests.SameAsTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1110]NUnit.Framework.Constraints.Tests.StartsWithTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1112]NUnit.Framework.Constraints.Tests.StartsWithTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1113]NUnit.Framework.Constraints.Tests.StartsWithTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1114]NUnit.Framework.Constraints.Tests.StartsWithTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1111]NUnit.Framework.Constraints.Tests.StartsWithTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1115]NUnit.Framework.Constraints.Tests.StartsWithTestIgnoringCase">
+                              <Nodes>
+                                <Node UniqueName="[0-1117]NUnit.Framework.Constraints.Tests.StartsWithTestIgnoringCase.FailsOnBadValues" />
+                                <Node UniqueName="[0-1118]NUnit.Framework.Constraints.Tests.StartsWithTestIgnoringCase.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1119]NUnit.Framework.Constraints.Tests.StartsWithTestIgnoringCase.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1116]NUnit.Framework.Constraints.Tests.StartsWithTestIgnoringCase.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1100]NUnit.Framework.Constraints.Tests.SubstringTest">
+                              <Nodes>
+                                <Node UniqueName="[0-1102]NUnit.Framework.Constraints.Tests.SubstringTest.FailsOnBadValues" />
+                                <Node UniqueName="[0-1103]NUnit.Framework.Constraints.Tests.SubstringTest.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1104]NUnit.Framework.Constraints.Tests.SubstringTest.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1101]NUnit.Framework.Constraints.Tests.SubstringTest.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-1105]NUnit.Framework.Constraints.Tests.SubstringTestIgnoringCase">
+                              <Nodes>
+                                <Node UniqueName="[0-1107]NUnit.Framework.Constraints.Tests.SubstringTestIgnoringCase.FailsOnBadValues" />
+                                <Node UniqueName="[0-1108]NUnit.Framework.Constraints.Tests.SubstringTestIgnoringCase.ProvidesProperDescription" />
+                                <Node UniqueName="[0-1109]NUnit.Framework.Constraints.Tests.SubstringTestIgnoringCase.ProvidesProperFailureMessage" />
+                                <Node UniqueName="[0-1106]NUnit.Framework.Constraints.Tests.SubstringTestIgnoringCase.SucceedsOnGoodValues" />
+                              </Nodes>
+                            </Node>
+                          </Nodes>
+                        </Node>
+                      </Nodes>
+                    </Node>
+                    <Node UniqueName="[0-1477]NUnit.Framework.Tests" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1456]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1459]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.ActualArrayIsLonger" />
+                            <Node UniqueName="[0-1470]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.ArrayAndCollection_Failure" />
+                            <Node UniqueName="[0-1469]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.ArraysDeclaredAsDifferentTypes" />
+                            <Node UniqueName="[0-1457]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.ArraysHaveDifferentRanks" />
+                            <Node UniqueName="[0-1467]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.ArraysWithDifferentDimensionsAsCollection" />
+                            <Node UniqueName="[0-1466]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.ArraysWithDifferentRanksAsCollection" />
+                            <Node UniqueName="[0-1471]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.DifferentArrayTypesEqualFails" />
+                            <Node UniqueName="[0-1461]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.DoubleDimensionedArrays" />
+                            <Node UniqueName="[0-1458]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.ExpectedArrayIsLonger" />
+                            <Node UniqueName="[0-1460]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.FailureOnSingleDimensionedArrays" />
+                            <Node UniqueName="[0-1463]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.FiveDimensionedArrays" />
+                            <Node UniqueName="[0-1465]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.JaggedArrayComparedToSimpleArray" />
+                            <Node UniqueName="[0-1464]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.JaggedArrays" />
+                            <Node UniqueName="[0-1468]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.SameLengthDifferentContent" />
+                            <Node UniqueName="[0-1462]NUnit.Framework.Tests.ArrayEqualsFailureMessageFixture.TripleDimensionedArrays" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1170]NUnit.Framework.Tests.ArrayEqualsFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1185]NUnit.Framework.Tests.ArrayEqualsFixture.ArrayAndCollection" />
+                            <Node UniqueName="[0-1171]NUnit.Framework.Tests.ArrayEqualsFixture.ArrayIsEqualToItself" />
+                            <Node UniqueName="[0-1176]NUnit.Framework.Tests.ArrayEqualsFixture.ArrayOfIntAndArrayOfDouble" />
+                            <Node UniqueName="[0-1177]NUnit.Framework.Tests.ArrayEqualsFixture.ArraysDeclaredAsDifferentTypes" />
+                            <Node UniqueName="[0-1182]NUnit.Framework.Tests.ArrayEqualsFixture.ArraysOfArrays" />
+                            <Node UniqueName="[0-1175]NUnit.Framework.Tests.ArrayEqualsFixture.ArraysOfDecimal" />
+                            <Node UniqueName="[0-1174]NUnit.Framework.Tests.ArrayEqualsFixture.ArraysOfDouble" />
+                            <Node UniqueName="[0-1173]NUnit.Framework.Tests.ArrayEqualsFixture.ArraysOfInt" />
+                            <Node UniqueName="[0-1178]NUnit.Framework.Tests.ArrayEqualsFixture.ArraysOfMixedTypes" />
+                            <Node UniqueName="[0-1172]NUnit.Framework.Tests.ArrayEqualsFixture.ArraysOfString" />
+                            <Node UniqueName="[0-1184]NUnit.Framework.Tests.ArrayEqualsFixture.ArraysPassedAsObjects" />
+                            <Node UniqueName="[0-1187]NUnit.Framework.Tests.ArrayEqualsFixture.ArraysWithDifferentDimensionsMatchedAsCollection" />
+                            <Node UniqueName="[0-1186]NUnit.Framework.Tests.ArrayEqualsFixture.ArraysWithDifferentRanksComparedAsCollection" />
+                            <Node UniqueName="[0-1179]NUnit.Framework.Tests.ArrayEqualsFixture.DoubleDimensionedArrays" />
+                            <Node UniqueName="[0-1181]NUnit.Framework.Tests.ArrayEqualsFixture.FiveDimensionedArrays" />
+                            <Node UniqueName="[0-1183]NUnit.Framework.Tests.ArrayEqualsFixture.JaggedArrays" />
+                            <Node UniqueName="[0-1180]NUnit.Framework.Tests.ArrayEqualsFixture.TripleDimensionedArrays" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1452]NUnit.Framework.Tests.ArrayNotEqualFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1455]NUnit.Framework.Tests.ArrayNotEqualFixture.ArraysDeclaredAsDifferentTypes" />
+                            <Node UniqueName="[0-1453]NUnit.Framework.Tests.ArrayNotEqualFixture.DifferentLengthArrays" />
+                            <Node UniqueName="[0-1454]NUnit.Framework.Tests.ArrayNotEqualFixture.SameLengthDifferentContent" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1191]NUnit.Framework.Tests.AssertExtensionTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1192]NUnit.Framework.Tests.AssertExtensionTests.OddNumber" />
+                            <Node UniqueName="[0-1193]NUnit.Framework.Tests.AssertExtensionTests.OddNumberFails" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1194]NUnit.Framework.Tests.AssertionTest">
+                          <Nodes>
+                            <Node UniqueName="[0-1211]NUnit.Framework.Tests.AssertionTest.AssertByte" />
+                            <Node UniqueName="[0-1195]NUnit.Framework.Tests.AssertionTest.AssertEquals" />
+                            <Node UniqueName="[0-1199]NUnit.Framework.Tests.AssertionTest.AssertEqualsFail" />
+                            <Node UniqueName="[0-1201]NUnit.Framework.Tests.AssertionTest.AssertEqualsNaNFails" />
+                            <Node UniqueName="[0-1202]NUnit.Framework.Tests.AssertionTest.AssertEqualsNull" />
+                            <Node UniqueName="[0-1222]NUnit.Framework.Tests.AssertionTest.AssertEqualsSameTypes" />
+                            <Node UniqueName="[0-1200]NUnit.Framework.Tests.AssertionTest.AssertEqualsTestCaseFail" />
+                            <Node UniqueName="[0-1203]NUnit.Framework.Tests.AssertionTest.AssertNanEqualsFails" />
+                            <Node UniqueName="[0-1204]NUnit.Framework.Tests.AssertionTest.AssertNanEqualsNaNSucceeds" />
+                            <Node UniqueName="[0-1205]NUnit.Framework.Tests.AssertionTest.AssertNegInfinityEqualsInfinity" />
+                            <Node UniqueName="[0-1214]NUnit.Framework.Tests.AssertionTest.AssertNull" />
+                            <Node UniqueName="[0-1215]NUnit.Framework.Tests.AssertionTest.AssertNullNotEqualsNull" />
+                            <Node UniqueName="[0-1206]NUnit.Framework.Tests.AssertionTest.AssertPosInfinityEqualsInfinity" />
+                            <Node UniqueName="[0-1207]NUnit.Framework.Tests.AssertionTest.AssertPosInfinityNotEquals" />
+                            <Node UniqueName="[0-1208]NUnit.Framework.Tests.AssertionTest.AssertPosInfinityNotEqualsNegInfinity" />
+                            <Node UniqueName="[0-1216]NUnit.Framework.Tests.AssertionTest.AssertSame" />
+                            <Node UniqueName="[0-1217]NUnit.Framework.Tests.AssertionTest.AssertSameFails" />
+                            <Node UniqueName="[0-1213]NUnit.Framework.Tests.AssertionTest.AssertShort" />
+                            <Node UniqueName="[0-1210]NUnit.Framework.Tests.AssertionTest.AssertSingle" />
+                            <Node UniqueName="[0-1209]NUnit.Framework.Tests.AssertionTest.AssertSinglePosInfinityNotEqualsNegInfinity" />
+                            <Node UniqueName="[0-1212]NUnit.Framework.Tests.AssertionTest.AssertString" />
+                            <Node UniqueName="[0-1196]NUnit.Framework.Tests.AssertionTest.Bug1076043AreEqualsNotTransitiveForDecimal" />
+                            <Node UniqueName="[0-1219]NUnit.Framework.Tests.AssertionTest.Bug561909FailInheritsFromSystemException" />
+                            <Node UniqueName="[0-1197]NUnit.Framework.Tests.AssertionTest.Bug575936Int32Int64Comparison" />
+                            <Node UniqueName="[0-1218]NUnit.Framework.Tests.AssertionTest.Fail" />
+                            <Node UniqueName="[0-1224]NUnit.Framework.Tests.AssertionTest.FailAssertFalse" />
+                            <Node UniqueName="[0-1220]NUnit.Framework.Tests.AssertionTest.FailAssertNotNull" />
+                            <Node UniqueName="[0-1198]NUnit.Framework.Tests.AssertionTest.IntegerLongComparison" />
+                            <Node UniqueName="[0-1223]NUnit.Framework.Tests.AssertionTest.SucceedAssertFail" />
+                            <Node UniqueName="[0-1221]NUnit.Framework.Tests.AssertionTest.SucceedAssertNotNull" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1135]NUnit.Framework.Tests.AssertSyntaxTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1157]NUnit.Framework.Tests.AssertSyntaxTests.AllItemsTests" />
+                            <Node UniqueName="[0-1167]NUnit.Framework.Tests.AssertSyntaxTests.AndOperator" />
+                            <Node UniqueName="[0-1145]NUnit.Framework.Tests.AssertSyntaxTests.AssignableFromTypeTests" />
+                            <Node UniqueName="[0-1160]NUnit.Framework.Tests.AssertSyntaxTests.CollectionContainsTests" />
+                            <Node UniqueName="[0-1161]NUnit.Framework.Tests.AssertSyntaxTests.CollectionEquivalenceTests" />
+                            <Node UniqueName="[0-1156]NUnit.Framework.Tests.AssertSyntaxTests.ComparisonTests" />
+                            <Node UniqueName="[0-1169]NUnit.Framework.Tests.AssertSyntaxTests.ComplexTests" />
+                            <Node UniqueName="[0-1142]NUnit.Framework.Tests.AssertSyntaxTests.EmptyCollectionTests" />
+                            <Node UniqueName="[0-1141]NUnit.Framework.Tests.AssertSyntaxTests.EmptyStringTests" />
+                            <Node UniqueName="[0-1148]NUnit.Framework.Tests.AssertSyntaxTests.EndsWithTests" />
+                            <Node UniqueName="[0-1149]NUnit.Framework.Tests.AssertSyntaxTests.EqualIgnoringCaseTests" />
+                            <Node UniqueName="[0-1151]NUnit.Framework.Tests.AssertSyntaxTests.EqualityTests" />
+                            <Node UniqueName="[0-1155]NUnit.Framework.Tests.AssertSyntaxTests.EqualityTestsUsingDefaultFloatingPointTolerance" />
+                            <Node UniqueName="[0-1152]NUnit.Framework.Tests.AssertSyntaxTests.EqualityTestsWithTolerance" />
+                            <Node UniqueName="[0-1153]NUnit.Framework.Tests.AssertSyntaxTests.EqualityTestsWithTolerance_MixedFloatAndDouble" />
+                            <Node UniqueName="[0-1154]NUnit.Framework.Tests.AssertSyntaxTests.EqualityTestsWithTolerance_MixingTypesGenerally" />
+                            <Node UniqueName="[0-1143]NUnit.Framework.Tests.AssertSyntaxTests.ExactTypeTests" />
+                            <Node UniqueName="[0-1144]NUnit.Framework.Tests.AssertSyntaxTests.InstanceOfTypeTests" />
+                            <Node UniqueName="[0-1139]NUnit.Framework.Tests.AssertSyntaxTests.IsFalse" />
+                            <Node UniqueName="[0-1140]NUnit.Framework.Tests.AssertSyntaxTests.IsNaN" />
+                            <Node UniqueName="[0-1137]NUnit.Framework.Tests.AssertSyntaxTests.IsNotNull" />
+                            <Node UniqueName="[0-1136]NUnit.Framework.Tests.AssertSyntaxTests.IsNull" />
+                            <Node UniqueName="[0-1138]NUnit.Framework.Tests.AssertSyntaxTests.IsTrue" />
+                            <Node UniqueName="[0-1159]NUnit.Framework.Tests.AssertSyntaxTests.NoItemTests" />
+                            <Node UniqueName="[0-1166]NUnit.Framework.Tests.AssertSyntaxTests.NotOperator" />
+                            <Node UniqueName="[0-1165]NUnit.Framework.Tests.AssertSyntaxTests.NotTests" />
+                            <Node UniqueName="[0-1168]NUnit.Framework.Tests.AssertSyntaxTests.OrOperator" />
+                            <Node UniqueName="[0-1163]NUnit.Framework.Tests.AssertSyntaxTests.PropertyTests" />
+                            <Node UniqueName="[0-1164]NUnit.Framework.Tests.AssertSyntaxTests.PropertyTests_DoesNotExistFails" />
+                            <Node UniqueName="[0-1150]NUnit.Framework.Tests.AssertSyntaxTests.RegularExpressionTests" />
+                            <Node UniqueName="[0-1158]NUnit.Framework.Tests.AssertSyntaxTests.SomeItemTests" />
+                            <Node UniqueName="[0-1147]NUnit.Framework.Tests.AssertSyntaxTests.StartsWithTests" />
+                            <Node UniqueName="[0-1162]NUnit.Framework.Tests.AssertSyntaxTests.SubsetTests" />
+                            <Node UniqueName="[0-1146]NUnit.Framework.Tests.AssertSyntaxTests.SubstringTests" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1410]NUnit.Framework.Tests.CollectionAssertTest">
+                          <Nodes>
+                            <Node UniqueName="[0-1420]NUnit.Framework.Tests.CollectionAssertTest.AreEqual" />
+                            <Node UniqueName="[0-1423]NUnit.Framework.Tests.CollectionAssertTest.AreEqual_HandlesNull" />
+                            <Node UniqueName="[0-1422]NUnit.Framework.Tests.CollectionAssertTest.AreEqualFail" />
+                            <Node UniqueName="[0-1421]NUnit.Framework.Tests.CollectionAssertTest.AreEqualFailCount" />
+                            <Node UniqueName="[0-1428]NUnit.Framework.Tests.CollectionAssertTest.AreEquivalentHandlesNull" />
+                            <Node UniqueName="[0-1429]NUnit.Framework.Tests.CollectionAssertTest.AreNotEqual" />
+                            <Node UniqueName="[0-1430]NUnit.Framework.Tests.CollectionAssertTest.AreNotEqual_Fails" />
+                            <Node UniqueName="[0-1431]NUnit.Framework.Tests.CollectionAssertTest.AreNotEqual_HandlesNull" />
+                            <Node UniqueName="[0-1436]NUnit.Framework.Tests.CollectionAssertTest.Contains_ICollection" />
+                            <Node UniqueName="[0-1435]NUnit.Framework.Tests.CollectionAssertTest.Contains_IList" />
+                            <Node UniqueName="[0-1440]NUnit.Framework.Tests.CollectionAssertTest.ContainsFails_EmptyICollection" />
+                            <Node UniqueName="[0-1439]NUnit.Framework.Tests.CollectionAssertTest.ContainsFails_EmptyIList" />
+                            <Node UniqueName="[0-1438]NUnit.Framework.Tests.CollectionAssertTest.ContainsFails_ICollection" />
+                            <Node UniqueName="[0-1437]NUnit.Framework.Tests.CollectionAssertTest.ContainsFails_ILIst" />
+                            <Node UniqueName="[0-1442]NUnit.Framework.Tests.CollectionAssertTest.ContainsNull_ICollection" />
+                            <Node UniqueName="[0-1441]NUnit.Framework.Tests.CollectionAssertTest.ContainsNull_IList" />
+                            <Node UniqueName="[0-1443]NUnit.Framework.Tests.CollectionAssertTest.DoesNotContain" />
+                            <Node UniqueName="[0-1444]NUnit.Framework.Tests.CollectionAssertTest.DoesNotContain_Empty" />
+                            <Node UniqueName="[0-1445]NUnit.Framework.Tests.CollectionAssertTest.DoesNotContain_Fails" />
+                            <Node UniqueName="[0-1424]NUnit.Framework.Tests.CollectionAssertTest.EnsureComparerIsUsed" />
+                            <Node UniqueName="[0-1425]NUnit.Framework.Tests.CollectionAssertTest.Equivalent" />
+                            <Node UniqueName="[0-1426]NUnit.Framework.Tests.CollectionAssertTest.EquivalentFailOne" />
+                            <Node UniqueName="[0-1427]NUnit.Framework.Tests.CollectionAssertTest.EquivalentFailTwo" />
+                            <Node UniqueName="[0-1449]NUnit.Framework.Tests.CollectionAssertTest.IsNotSubsetOf" />
+                            <Node UniqueName="[0-1450]NUnit.Framework.Tests.CollectionAssertTest.IsNotSubsetOf_Fails" />
+                            <Node UniqueName="[0-1451]NUnit.Framework.Tests.CollectionAssertTest.IsNotSubsetOfHandlesNull" />
+                            <Node UniqueName="[0-1446]NUnit.Framework.Tests.CollectionAssertTest.IsSubsetOf" />
+                            <Node UniqueName="[0-1447]NUnit.Framework.Tests.CollectionAssertTest.IsSubsetOf_Fails" />
+                            <Node UniqueName="[0-1448]NUnit.Framework.Tests.CollectionAssertTest.IsSubsetOfHandlesNull" />
+                            <Node UniqueName="[0-1413]NUnit.Framework.Tests.CollectionAssertTest.ItemsNotNull" />
+                            <Node UniqueName="[0-1414]NUnit.Framework.Tests.CollectionAssertTest.ItemsNotNullFailure" />
+                            <Node UniqueName="[0-1411]NUnit.Framework.Tests.CollectionAssertTest.ItemsOfType" />
+                            <Node UniqueName="[0-1412]NUnit.Framework.Tests.CollectionAssertTest.ItemsOfTypeFailure" />
+                            <Node UniqueName="[0-1432]NUnit.Framework.Tests.CollectionAssertTest.NotEquivalent" />
+                            <Node UniqueName="[0-1433]NUnit.Framework.Tests.CollectionAssertTest.NotEquivalent_Fails" />
+                            <Node UniqueName="[0-1434]NUnit.Framework.Tests.CollectionAssertTest.NotEquivalentHandlesNull" />
+                            <Node UniqueName="[0-1417]NUnit.Framework.Tests.CollectionAssertTest.Unique_WithNull" />
+                            <Node UniqueName="[0-1415]NUnit.Framework.Tests.CollectionAssertTest.Unique_WithObjects" />
+                            <Node UniqueName="[0-1416]NUnit.Framework.Tests.CollectionAssertTest.Unique_WithStrings" />
+                            <Node UniqueName="[0-1418]NUnit.Framework.Tests.CollectionAssertTest.UniqueFailure" />
+                            <Node UniqueName="[0-1419]NUnit.Framework.Tests.CollectionAssertTest.UniqueFailure_WithTwoNulls" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1260]NUnit.Framework.Tests.ConditionAssertTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1271]NUnit.Framework.Tests.ConditionAssertTests.IsEmpty" />
+                            <Node UniqueName="[0-1274]NUnit.Framework.Tests.ConditionAssertTests.IsEmptyFailsOnNonEmptyArray" />
+                            <Node UniqueName="[0-1273]NUnit.Framework.Tests.ConditionAssertTests.IsEmptyFailsOnNullString" />
+                            <Node UniqueName="[0-1272]NUnit.Framework.Tests.ConditionAssertTests.IsEmptyFailsOnString" />
+                            <Node UniqueName="[0-1263]NUnit.Framework.Tests.ConditionAssertTests.IsFalse" />
+                            <Node UniqueName="[0-1264]NUnit.Framework.Tests.ConditionAssertTests.IsFalseFails" />
+                            <Node UniqueName="[0-1269]NUnit.Framework.Tests.ConditionAssertTests.IsNaN" />
+                            <Node UniqueName="[0-1270]NUnit.Framework.Tests.ConditionAssertTests.IsNaNFails" />
+                            <Node UniqueName="[0-1275]NUnit.Framework.Tests.ConditionAssertTests.IsNotEmpty" />
+                            <Node UniqueName="[0-1277]NUnit.Framework.Tests.ConditionAssertTests.IsNotEmptyFailsOnEmptyArray" />
+                            <Node UniqueName="[0-1278]NUnit.Framework.Tests.ConditionAssertTests.IsNotEmptyFailsOnEmptyArrayList" />
+                            <Node UniqueName="[0-1279]NUnit.Framework.Tests.ConditionAssertTests.IsNotEmptyFailsOnEmptyHashTable" />
+                            <Node UniqueName="[0-1276]NUnit.Framework.Tests.ConditionAssertTests.IsNotEmptyFailsOnEmptyString" />
+                            <Node UniqueName="[0-1267]NUnit.Framework.Tests.ConditionAssertTests.IsNotNull" />
+                            <Node UniqueName="[0-1268]NUnit.Framework.Tests.ConditionAssertTests.IsNotNullFails" />
+                            <Node UniqueName="[0-1265]NUnit.Framework.Tests.ConditionAssertTests.IsNull" />
+                            <Node UniqueName="[0-1266]NUnit.Framework.Tests.ConditionAssertTests.IsNullFails" />
+                            <Node UniqueName="[0-1261]NUnit.Framework.Tests.ConditionAssertTests.IsTrue" />
+                            <Node UniqueName="[0-1262]NUnit.Framework.Tests.ConditionAssertTests.IsTrueFails" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1225]NUnit.Framework.Tests.EqualsFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1228]NUnit.Framework.Tests.EqualsFixture.Bug575936Int32Int64Comparison" />
+                            <Node UniqueName="[0-1243]NUnit.Framework.Tests.EqualsFixture.Byte" />
+                            <Node UniqueName="[0-1252]NUnit.Framework.Tests.EqualsFixture.DateTimeEqual" />
+                            <Node UniqueName="[0-1253]NUnit.Framework.Tests.EqualsFixture.DateTimeNotEqual" />
+                            <Node UniqueName="[0-1248]NUnit.Framework.Tests.EqualsFixture.Decimal" />
+                            <Node UniqueName="[0-1254]NUnit.Framework.Tests.EqualsFixture.DoubleNotEqualMessageDisplaysAllDigits" />
+                            <Node UniqueName="[0-1258]NUnit.Framework.Tests.EqualsFixture.DoubleNotEqualMessageDisplaysDefaultTolerance" />
+                            <Node UniqueName="[0-1256]NUnit.Framework.Tests.EqualsFixture.DoubleNotEqualMessageDisplaysTolerance" />
+                            <Node UniqueName="[0-1259]NUnit.Framework.Tests.EqualsFixture.DoubleNotEqualWithNanDoesNotDisplayDefaultTolerance" />
+                            <Node UniqueName="[0-1250]NUnit.Framework.Tests.EqualsFixture.EnumsEqual" />
+                            <Node UniqueName="[0-1251]NUnit.Framework.Tests.EqualsFixture.EnumsNotEqual" />
+                            <Node UniqueName="[0-1226]NUnit.Framework.Tests.EqualsFixture.Equals" />
+                            <Node UniqueName="[0-1231]NUnit.Framework.Tests.EqualsFixture.EqualsFail" />
+                            <Node UniqueName="[0-1232]NUnit.Framework.Tests.EqualsFixture.EqualsNaNFails" />
+                            <Node UniqueName="[0-1227]NUnit.Framework.Tests.EqualsFixture.EqualsNull" />
+                            <Node UniqueName="[0-1249]NUnit.Framework.Tests.EqualsFixture.EqualsSameTypes" />
+                            <Node UniqueName="[0-1240]NUnit.Framework.Tests.EqualsFixture.EqualsThrowsException" />
+                            <Node UniqueName="[0-1242]NUnit.Framework.Tests.EqualsFixture.Float" />
+                            <Node UniqueName="[0-1255]NUnit.Framework.Tests.EqualsFixture.FloatNotEqualMessageDisplaysAllDigits" />
+                            <Node UniqueName="[0-1257]NUnit.Framework.Tests.EqualsFixture.FloatNotEqualMessageDisplaysTolerance" />
+                            <Node UniqueName="[0-1246]NUnit.Framework.Tests.EqualsFixture.Int" />
+                            <Node UniqueName="[0-1230]NUnit.Framework.Tests.EqualsFixture.IntegerEquals" />
+                            <Node UniqueName="[0-1229]NUnit.Framework.Tests.EqualsFixture.IntegerLongComparison" />
+                            <Node UniqueName="[0-1233]NUnit.Framework.Tests.EqualsFixture.NanEqualsFails" />
+                            <Node UniqueName="[0-1234]NUnit.Framework.Tests.EqualsFixture.NanEqualsNaNSucceeds" />
+                            <Node UniqueName="[0-1235]NUnit.Framework.Tests.EqualsFixture.NegInfinityEqualsInfinity" />
+                            <Node UniqueName="[0-1236]NUnit.Framework.Tests.EqualsFixture.PosInfinityEqualsInfinity" />
+                            <Node UniqueName="[0-1237]NUnit.Framework.Tests.EqualsFixture.PosInfinityNotEquals" />
+                            <Node UniqueName="[0-1238]NUnit.Framework.Tests.EqualsFixture.PosInfinityNotEqualsNegInfinity" />
+                            <Node UniqueName="[0-1241]NUnit.Framework.Tests.EqualsFixture.ReferenceEqualsThrowsException" />
+                            <Node UniqueName="[0-1245]NUnit.Framework.Tests.EqualsFixture.Short" />
+                            <Node UniqueName="[0-1239]NUnit.Framework.Tests.EqualsFixture.SinglePosInfinityNotEqualsNegInfinity" />
+                            <Node UniqueName="[0-1244]NUnit.Framework.Tests.EqualsFixture.String" />
+                            <Node UniqueName="[0-1247]NUnit.Framework.Tests.EqualsFixture.UInt" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1300]NUnit.Framework.Tests.FileAssertTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1307]NUnit.Framework.Tests.FileAssertTests.AreEqualFailsWhenOneIsNull" />
+                            <Node UniqueName="[0-1309]NUnit.Framework.Tests.FileAssertTests.AreEqualFailsWithFileInfos" />
+                            <Node UniqueName="[0-1310]NUnit.Framework.Tests.FileAssertTests.AreEqualFailsWithFiles" />
+                            <Node UniqueName="[0-1308]NUnit.Framework.Tests.FileAssertTests.AreEqualFailsWithStreams" />
+                            <Node UniqueName="[0-1311]NUnit.Framework.Tests.FileAssertTests.AreEqualFailsWithTextFilesAfterReadingBothFiles" />
+                            <Node UniqueName="[0-1304]NUnit.Framework.Tests.FileAssertTests.AreEqualPassesUsingSameFileTwice" />
+                            <Node UniqueName="[0-1301]NUnit.Framework.Tests.FileAssertTests.AreEqualPassesWhenBothAreNull" />
+                            <Node UniqueName="[0-1305]NUnit.Framework.Tests.FileAssertTests.AreEqualPassesWithFileInfos" />
+                            <Node UniqueName="[0-1303]NUnit.Framework.Tests.FileAssertTests.AreEqualPassesWithFiles" />
+                            <Node UniqueName="[0-1302]NUnit.Framework.Tests.FileAssertTests.AreEqualPassesWithStreams" />
+                            <Node UniqueName="[0-1306]NUnit.Framework.Tests.FileAssertTests.AreEqualPassesWithTextFiles" />
+                            <Node UniqueName="[0-1317]NUnit.Framework.Tests.FileAssertTests.AreNotEqualFailsWhenBothAreNull" />
+                            <Node UniqueName="[0-1319]NUnit.Framework.Tests.FileAssertTests.AreNotEqualFailsWithFileInfos" />
+                            <Node UniqueName="[0-1320]NUnit.Framework.Tests.FileAssertTests.AreNotEqualFailsWithFiles" />
+                            <Node UniqueName="[0-1318]NUnit.Framework.Tests.FileAssertTests.AreNotEqualFailsWithStreams" />
+                            <Node UniqueName="[0-1316]NUnit.Framework.Tests.FileAssertTests.AreNotEqualIteratesOverTheEntireFile" />
+                            <Node UniqueName="[0-1321]NUnit.Framework.Tests.FileAssertTests.AreNotEqualIteratesOverTheEntireFileAndFails" />
+                            <Node UniqueName="[0-1312]NUnit.Framework.Tests.FileAssertTests.AreNotEqualPassesIfOneIsNull" />
+                            <Node UniqueName="[0-1315]NUnit.Framework.Tests.FileAssertTests.AreNotEqualPassesWithFileInfos" />
+                            <Node UniqueName="[0-1314]NUnit.Framework.Tests.FileAssertTests.AreNotEqualPassesWithFiles" />
+                            <Node UniqueName="[0-1313]NUnit.Framework.Tests.FileAssertTests.AreNotEqualPassesWithStreams" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1322]NUnit.Framework.Tests.GreaterEqualFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1333]NUnit.Framework.Tests.GreaterEqualFixture.FailureMessage" />
+                            <Node UniqueName="[0-1328]NUnit.Framework.Tests.GreaterEqualFixture.GreaterOrEqual_Decimal" />
+                            <Node UniqueName="[0-1327]NUnit.Framework.Tests.GreaterEqualFixture.GreaterOrEqual_Double" />
+                            <Node UniqueName="[0-1329]NUnit.Framework.Tests.GreaterEqualFixture.GreaterOrEqual_Float" />
+                            <Node UniqueName="[0-1323]NUnit.Framework.Tests.GreaterEqualFixture.GreaterOrEqual_Int32" />
+                            <Node UniqueName="[0-1325]NUnit.Framework.Tests.GreaterEqualFixture.GreaterOrEqual_Long" />
+                            <Node UniqueName="[0-1324]NUnit.Framework.Tests.GreaterEqualFixture.GreaterOrEqual_UInt32" />
+                            <Node UniqueName="[0-1326]NUnit.Framework.Tests.GreaterEqualFixture.GreaterOrEqual_ULong" />
+                            <Node UniqueName="[0-1330]NUnit.Framework.Tests.GreaterEqualFixture.MixedTypes" />
+                            <Node UniqueName="[0-1332]NUnit.Framework.Tests.GreaterEqualFixture.NotGreaterEqualIComparable" />
+                            <Node UniqueName="[0-1331]NUnit.Framework.Tests.GreaterEqualFixture.NotGreaterOrEqual" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1280]NUnit.Framework.Tests.GreaterFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1286]NUnit.Framework.Tests.GreaterFixture.FailureMessage" />
+                            <Node UniqueName="[0-1281]NUnit.Framework.Tests.GreaterFixture.Greater" />
+                            <Node UniqueName="[0-1282]NUnit.Framework.Tests.GreaterFixture.MixedTypes" />
+                            <Node UniqueName="[0-1284]NUnit.Framework.Tests.GreaterFixture.NotGreater" />
+                            <Node UniqueName="[0-1285]NUnit.Framework.Tests.GreaterFixture.NotGreaterIComparable" />
+                            <Node UniqueName="[0-1283]NUnit.Framework.Tests.GreaterFixture.NotGreaterWhenEqual" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1341]NUnit.Framework.Tests.LessEqualFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1346]NUnit.Framework.Tests.LessEqualFixture.FailureMessage" />
+                            <Node UniqueName="[0-1342]NUnit.Framework.Tests.LessEqualFixture.LessOrEqual" />
+                            <Node UniqueName="[0-1343]NUnit.Framework.Tests.LessEqualFixture.MixedTypes" />
+                            <Node UniqueName="[0-1345]NUnit.Framework.Tests.LessEqualFixture.NotLessEqualIComparable" />
+                            <Node UniqueName="[0-1344]NUnit.Framework.Tests.LessEqualFixture.NotLessOrEqual" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1334]NUnit.Framework.Tests.LessFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1340]NUnit.Framework.Tests.LessFixture.FailureMessage" />
+                            <Node UniqueName="[0-1335]NUnit.Framework.Tests.LessFixture.Less" />
+                            <Node UniqueName="[0-1336]NUnit.Framework.Tests.LessFixture.MixedTypes" />
+                            <Node UniqueName="[0-1338]NUnit.Framework.Tests.LessFixture.NotLess" />
+                            <Node UniqueName="[0-1339]NUnit.Framework.Tests.LessFixture.NotLessIComparable" />
+                            <Node UniqueName="[0-1337]NUnit.Framework.Tests.LessFixture.NotLessWhenEqual" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1358]NUnit.Framework.Tests.ListContentsTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1360]NUnit.Framework.Tests.ListContentsTests.ArrayFails" />
+                            <Node UniqueName="[0-1364]NUnit.Framework.Tests.ListContentsTests.ArrayListFails" />
+                            <Node UniqueName="[0-1363]NUnit.Framework.Tests.ListContentsTests.ArrayListSucceeds" />
+                            <Node UniqueName="[0-1359]NUnit.Framework.Tests.ListContentsTests.ArraySucceeds" />
+                            <Node UniqueName="[0-1365]NUnit.Framework.Tests.ListContentsTests.DifferentTypesFail" />
+                            <Node UniqueName="[0-1361]NUnit.Framework.Tests.ListContentsTests.EmptyArrayFails" />
+                            <Node UniqueName="[0-1362]NUnit.Framework.Tests.ListContentsTests.NullArrayIsError" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1386]NUnit.Framework.Tests.MsgUtilTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1391]NUnit.Framework.Tests.MsgUtilTests.ClipExpectedAndActual_StringsDoNotFitInLine" />
+                            <Node UniqueName="[0-1389]NUnit.Framework.Tests.MsgUtilTests.ClipExpectedAndActual_StringsFitInLine" />
+                            <Node UniqueName="[0-1390]NUnit.Framework.Tests.MsgUtilTests.ClipExpectedAndActual_StringTailsFitInLine" />
+                            <Node UniqueName="[0-1388]NUnit.Framework.Tests.MsgUtilTests.TestClipString" />
+                            <Node UniqueName="[0-1387]NUnit.Framework.Tests.MsgUtilTests.TestConvertWhitespace" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1287]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1298]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture.DisplayListElements" />
+                            <Node UniqueName="[0-1289]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture.TestClipAroundPosition" />
+                            <Node UniqueName="[0-1290]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture.TestClipAroundPosition2" />
+                            <Node UniqueName="[0-1291]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture.TestConvertWhitespace" />
+                            <Node UniqueName="[0-1299]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture.TestFormatMessageForArraysNotEqual" />
+                            <Node UniqueName="[0-1292]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture.TestFormatMessageForFailNotEquals" />
+                            <Node UniqueName="[0-1293]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture.TestFormatMessageForFailNotEqualsIgnoringCase" />
+                            <Node UniqueName="[0-1294]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture.TestFormatMessageForFailNotEqualsNewlines2" />
+                            <Node UniqueName="[0-1288]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture.TestInputsAreStrings" />
+                            <Node UniqueName="[0-1295]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture.TestStringLengthsDiffer" />
+                            <Node UniqueName="[0-1296]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture.TestStringLengthsDiffer2" />
+                            <Node UniqueName="[0-1297]NUnit.Framework.Tests.MyAssertionFailureMessage+FailureMessageFixture.TestStringLengthsDiffer3" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1366]NUnit.Framework.Tests.NotEqualFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1371]NUnit.Framework.Tests.NotEqualFixture.ArraysNotEqual" />
+                            <Node UniqueName="[0-1372]NUnit.Framework.Tests.NotEqualFixture.ArraysNotEqualFails" />
+                            <Node UniqueName="[0-1367]NUnit.Framework.Tests.NotEqualFixture.NotEqual" />
+                            <Node UniqueName="[0-1368]NUnit.Framework.Tests.NotEqualFixture.NotEqualFails" />
+                            <Node UniqueName="[0-1374]NUnit.Framework.Tests.NotEqualFixture.NotEqualSameTypes" />
+                            <Node UniqueName="[0-1370]NUnit.Framework.Tests.NotEqualFixture.NullEqualsNull" />
+                            <Node UniqueName="[0-1369]NUnit.Framework.Tests.NotEqualFixture.NullNotEqualToNonNull" />
+                            <Node UniqueName="[0-1373]NUnit.Framework.Tests.NotEqualFixture.UInt" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1188]NUnit.Framework.Tests.NotSameFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1189]NUnit.Framework.Tests.NotSameFixture.NotSame" />
+                            <Node UniqueName="[0-1190]NUnit.Framework.Tests.NotSameFixture.NotSameFails" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1392]NUnit.Framework.Tests.SameFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1393]NUnit.Framework.Tests.SameFixture.Same" />
+                            <Node UniqueName="[0-1394]NUnit.Framework.Tests.SameFixture.SameFails" />
+                            <Node UniqueName="[0-1395]NUnit.Framework.Tests.SameFixture.SameValueTypes" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1375]NUnit.Framework.Tests.StringAssertTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1382]NUnit.Framework.Tests.StringAssertTests.CaseInsensitiveCompare" />
+                            <Node UniqueName="[0-1383]NUnit.Framework.Tests.StringAssertTests.CaseInsensitiveCompareFails" />
+                            <Node UniqueName="[0-1376]NUnit.Framework.Tests.StringAssertTests.Contains" />
+                            <Node UniqueName="[0-1377]NUnit.Framework.Tests.StringAssertTests.ContainsFails" />
+                            <Node UniqueName="[0-1380]NUnit.Framework.Tests.StringAssertTests.EndsWith" />
+                            <Node UniqueName="[0-1381]NUnit.Framework.Tests.StringAssertTests.EndsWithFails" />
+                            <Node UniqueName="[0-1384]NUnit.Framework.Tests.StringAssertTests.IsMatch" />
+                            <Node UniqueName="[0-1385]NUnit.Framework.Tests.StringAssertTests.IsMatchFails" />
+                            <Node UniqueName="[0-1378]NUnit.Framework.Tests.StringAssertTests.StartsWith" />
+                            <Node UniqueName="[0-1379]NUnit.Framework.Tests.StringAssertTests.StartsWithFails" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1396]NUnit.Framework.Tests.TextMessageWriterTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1397]NUnit.Framework.Tests.TextMessageWriterTests.ConnectorIsWrittenWithSurroundingSpaces" />
+                            <Node UniqueName="[0-1407]NUnit.Framework.Tests.TextMessageWriterTests.DateTimeTest" />
+                            <Node UniqueName="[0-1406]NUnit.Framework.Tests.TextMessageWriterTests.DecimalIsWrittenToTwentyNineDigits" />
+                            <Node UniqueName="[0-1405]NUnit.Framework.Tests.TextMessageWriterTests.DecimalIsWrittenWithTrailingM" />
+                            <Node UniqueName="[0-1408]NUnit.Framework.Tests.TextMessageWriterTests.DisplayStringDifferences" />
+                            <Node UniqueName="[0-1409]NUnit.Framework.Tests.TextMessageWriterTests.DisplayStringDifferences_NoClipping" />
+                            <Node UniqueName="[0-1404]NUnit.Framework.Tests.TextMessageWriterTests.DoubleIsWrittenToSeventeenDigits" />
+                            <Node UniqueName="[0-1403]NUnit.Framework.Tests.TextMessageWriterTests.DoubleIsWrittenWithTrailingD" />
+                            <Node UniqueName="[0-1402]NUnit.Framework.Tests.TextMessageWriterTests.FloatIsWrittenToNineDigits" />
+                            <Node UniqueName="[0-1401]NUnit.Framework.Tests.TextMessageWriterTests.FloatIsWrittenWithTrailingF" />
+                            <Node UniqueName="[0-1399]NUnit.Framework.Tests.TextMessageWriterTests.IntegerIsWrittenAsIs" />
+                            <Node UniqueName="[0-1398]NUnit.Framework.Tests.TextMessageWriterTests.PredicateIsWrittenWithTrailingSpace" />
+                            <Node UniqueName="[0-1400]NUnit.Framework.Tests.TextMessageWriterTests.StringIsWrittenWithQuotes" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1347]NUnit.Framework.Tests.TypeAssertTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1348]NUnit.Framework.Tests.TypeAssertTests.ExactType" />
+                            <Node UniqueName="[0-1349]NUnit.Framework.Tests.TypeAssertTests.ExactTypeFails" />
+                            <Node UniqueName="[0-1354]NUnit.Framework.Tests.TypeAssertTests.IsAssignableFrom" />
+                            <Node UniqueName="[0-1355]NUnit.Framework.Tests.TypeAssertTests.IsAssignableFromFails" />
+                            <Node UniqueName="[0-1350]NUnit.Framework.Tests.TypeAssertTests.IsInstanceOfType" />
+                            <Node UniqueName="[0-1351]NUnit.Framework.Tests.TypeAssertTests.IsInstanceOfTypeFails" />
+                            <Node UniqueName="[0-1356]NUnit.Framework.Tests.TypeAssertTests.IsNotAssignableFrom" />
+                            <Node UniqueName="[0-1357]NUnit.Framework.Tests.TypeAssertTests.IsNotAssignableFromFails" />
+                            <Node UniqueName="[0-1352]NUnit.Framework.Tests.TypeAssertTests.IsNotInstanceOfType" />
+                            <Node UniqueName="[0-1353]NUnit.Framework.Tests.TypeAssertTests.IsNotInstanceOfTypeFails" />
+                          </Nodes>
+                        </Node>
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+        <Node UniqueName="[0-1909]C:\program files\NUnit 2.4.8\bin\nunit.core.tests.dll" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1910]NUnit" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1911]NUnit.Core" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1912]NUnit.Core.Tests" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1902]NUnit.Core.Tests.AssemblyReaderTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1904]NUnit.Core.Tests.AssemblyReaderTests.CreateFromAssembly" />
+                            <Node UniqueName="[0-1903]NUnit.Core.Tests.AssemblyReaderTests.CreateFromPath" />
+                            <Node UniqueName="[0-1908]NUnit.Core.Tests.AssemblyReaderTests.ImageRuntimeVersion" />
+                            <Node UniqueName="[0-1907]NUnit.Core.Tests.AssemblyReaderTests.IsDotNetFile" />
+                            <Node UniqueName="[0-1905]NUnit.Core.Tests.AssemblyReaderTests.IsValidPeFile" />
+                            <Node UniqueName="[0-1906]NUnit.Core.Tests.AssemblyReaderTests.IsValidPeFile_Fails" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1881]NUnit.Core.Tests.AssemblyResolverTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1882]NUnit.Core.Tests.AssemblyResolverTests.AddFile" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1796]NUnit.Core.Tests.AssemblyTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1803]NUnit.Core.Tests.AssemblyTests.AppSettingsLoaded" />
+                            <Node UniqueName="[0-1799]NUnit.Core.Tests.AssemblyTests.LoadAssembly" />
+                            <Node UniqueName="[0-1800]NUnit.Core.Tests.AssemblyTests.LoadAssemblyNotFound" />
+                            <Node UniqueName="[0-1801]NUnit.Core.Tests.AssemblyTests.LoadAssemblyWithoutTestFixtures" />
+                            <Node UniqueName="[0-1802]NUnit.Core.Tests.AssemblyTests.LoadTestFixtureFromAssembly" />
+                            <Node UniqueName="[0-1798]NUnit.Core.Tests.AssemblyTests.NUnitTraceIsEnabled" />
+                            <Node UniqueName="[0-1797]NUnit.Core.Tests.AssemblyTests.RunSetsCurrentDirectory" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1489]NUnit.Core.Tests.AssemblyVersionFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1490]NUnit.Core.Tests.AssemblyVersionFixture.Version" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1499]NUnit.Core.Tests.CallContextTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1502]NUnit.Core.Tests.CallContextTests.GenericPrincipalTest" />
+                            <Node UniqueName="[0-1500]NUnit.Core.Tests.CallContextTests.ILogicalThreadAffinativeTest" />
+                            <Node UniqueName="[0-1501]NUnit.Core.Tests.CallContextTests.ILogicalThreadAffinativeTestConsole" />
+                            <Node UniqueName="[0-1504]NUnit.Core.Tests.CallContextTests.SetCustomPrincipalOnThread" />
+                            <Node UniqueName="[0-1503]NUnit.Core.Tests.CallContextTests.SetGenericPrincipalOnThread" />
+                            <Node UniqueName="[0-1505]NUnit.Core.Tests.CallContextTests.UseCustomIdentity" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1506]NUnit.Core.Tests.CategoryAttributeTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1509]NUnit.Core.Tests.CategoryAttributeTests.CanDeriveFromCategoryAttribute" />
+                            <Node UniqueName="[0-1507]NUnit.Core.Tests.CategoryAttributeTests.CategoryOnFixture" />
+                            <Node UniqueName="[0-1508]NUnit.Core.Tests.CategoryAttributeTests.CategoryOnTestCase" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1572]NUnit.Core.Tests.CoreExtensionsTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1578]NUnit.Core.Tests.CoreExtensionsTests.CanAddDecorator" />
+                            <Node UniqueName="[0-1581]NUnit.Core.Tests.CoreExtensionsTests.CanAddEventListener" />
+                            <Node UniqueName="[0-1579]NUnit.Core.Tests.CoreExtensionsTests.CanAddSuiteBuilder" />
+                            <Node UniqueName="[0-1580]NUnit.Core.Tests.CoreExtensionsTests.CanAddTestCaseBuilder" />
+                            <Node UniqueName="[0-1576]NUnit.Core.Tests.CoreExtensionsTests.HasEventListenerExtensionPoint" />
+                            <Node UniqueName="[0-1573]NUnit.Core.Tests.CoreExtensionsTests.HasSuiteBuildersExtensionPoint" />
+                            <Node UniqueName="[0-1574]NUnit.Core.Tests.CoreExtensionsTests.HasTestCaseBuildersExtensionPoint" />
+                            <Node UniqueName="[0-1575]NUnit.Core.Tests.CoreExtensionsTests.HasTestDecoratorsExtensionPoint" />
+                            <Node UniqueName="[0-1577]NUnit.Core.Tests.CoreExtensionsTests.HasTestFrameworkRegistry" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1858]NUnit.Core.Tests.CultureSettingAndDetectionTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1861]NUnit.Core.Tests.CultureSettingAndDetectionTests.CanMatchAttributeWithExclude" />
+                            <Node UniqueName="[0-1860]NUnit.Core.Tests.CultureSettingAndDetectionTests.CanMatchAttributeWithInclude" />
+                            <Node UniqueName="[0-1862]NUnit.Core.Tests.CultureSettingAndDetectionTests.CanMatchAttributeWithIncludeAndExclude" />
+                            <Node UniqueName="[0-1859]NUnit.Core.Tests.CultureSettingAndDetectionTests.CanMatchStrings" />
+                            <Node UniqueName="[0-1864]NUnit.Core.Tests.CultureSettingAndDetectionTests.LoadWithFrenchCanadianCulture" />
+                            <Node UniqueName="[0-1863]NUnit.Core.Tests.CultureSettingAndDetectionTests.LoadWithFrenchCulture" />
+                            <Node UniqueName="[0-1865]NUnit.Core.Tests.CultureSettingAndDetectionTests.LoadWithRussianCulture" />
+                            <Node UniqueName="[0-1866]NUnit.Core.Tests.CultureSettingAndDetectionTests.SettingInvalidCultureGivesError" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1867]NUnit.Core.Tests.CultureSettingAndDetectionTests+NestedFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1868]NUnit.Core.Tests.CultureSettingAndDetectionTests+NestedFixture.CanSetCultureOnFixture" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1510]NUnit.Core.Tests.DirectorySwapperTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1511]NUnit.Core.Tests.DirectorySwapperTests.ChangeAndRestore" />
+                            <Node UniqueName="[0-1512]NUnit.Core.Tests.DirectorySwapperTests.SwapAndRestore" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1513]NUnit.Core.Tests.EventQueueTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1517]NUnit.Core.Tests.EventQueueTests.PumpAutoStopsOnRunFinished" />
+                            <Node UniqueName="[0-1518]NUnit.Core.Tests.EventQueueTests.PumpEvents" />
+                            <Node UniqueName="[0-1519]NUnit.Core.Tests.EventQueueTests.PumpEventsWithAutoStop" />
+                            <Node UniqueName="[0-1514]NUnit.Core.Tests.EventQueueTests.QueueEvents" />
+                            <Node UniqueName="[0-1515]NUnit.Core.Tests.EventQueueTests.SendEvents" />
+                            <Node UniqueName="[0-1516]NUnit.Core.Tests.EventQueueTests.StartAndStopPumpOnEmptyQueue" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1520]NUnit.Core.Tests.EventTestFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1521]NUnit.Core.Tests.EventTestFixture.CheckEventListening" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1522]NUnit.Core.Tests.ExpectExceptionTest">
+                          <Nodes>
+                            <Node UniqueName="[0-1555]NUnit.Core.Tests.ExpectExceptionTest.AssertFailBeforeException" />
+                            <Node UniqueName="[0-1523]NUnit.Core.Tests.ExpectExceptionTest.CanExpectUnspecifiedException" />
+                            <Node UniqueName="[0-1560]NUnit.Core.Tests.ExpectExceptionTest.ExceptionHandlerIsCalledWhenExceptionMatches" />
+                            <Node UniqueName="[0-1559]NUnit.Core.Tests.ExpectExceptionTest.ExceptionHandlerIsCalledWhenExceptionMatches_AlternateHandler" />
+                            <Node UniqueName="[0-1561]NUnit.Core.Tests.ExpectExceptionTest.ExceptionHandlerIsNotCalledWhenExceptionDoesNotMatch" />
+                            <Node UniqueName="[0-1562]NUnit.Core.Tests.ExpectExceptionTest.ExceptionHandlerIsNotCalledWhenExceptionDoesNotMatch_AlternateHandler" />
+                            <Node UniqueName="[0-1551]NUnit.Core.Tests.ExpectExceptionTest.MethodThrowsArgumentOutOfRange" />
+                            <Node UniqueName="[0-1549]NUnit.Core.Tests.ExpectExceptionTest.MethodThrowsException" />
+                            <Node UniqueName="[0-1550]NUnit.Core.Tests.ExpectExceptionTest.MethodThrowsRightExceptionMessage" />
+                            <Node UniqueName="[0-1552]NUnit.Core.Tests.ExpectExceptionTest.MethodThrowsWrongExceptionMessage" />
+                            <Node UniqueName="[0-1553]NUnit.Core.Tests.ExpectExceptionTest.SetUpThrowsSameException" />
+                            <Node UniqueName="[0-1554]NUnit.Core.Tests.ExpectExceptionTest.TearDownThrowsSameException" />
+                            <Node UniqueName="[0-1547]NUnit.Core.Tests.ExpectExceptionTest.TestExceptionNameNotThrown" />
+                            <Node UniqueName="[0-1548]NUnit.Core.Tests.ExpectExceptionTest.TestExceptionNameNotThrownWithUserMessage" />
+                            <Node UniqueName="[0-1545]NUnit.Core.Tests.ExpectExceptionTest.TestExceptionTypeNotThrown" />
+                            <Node UniqueName="[0-1546]NUnit.Core.Tests.ExpectExceptionTest.TestExceptionTypeNotThrownWithUserMessage" />
+                            <Node UniqueName="[0-1535]NUnit.Core.Tests.ExpectExceptionTest.TestFailsWhenBaseExceptionIsThrown" />
+                            <Node UniqueName="[0-1536]NUnit.Core.Tests.ExpectExceptionTest.TestFailsWhenDerivedExceptionIsThrown" />
+                            <Node UniqueName="[0-1563]NUnit.Core.Tests.ExpectExceptionTest.TestIsNotRunnableWhenAlternateHandlerIsNotFound" />
+                            <Node UniqueName="[0-1541]NUnit.Core.Tests.ExpectExceptionTest.TestMismatchedExceptionMessage" />
+                            <Node UniqueName="[0-1542]NUnit.Core.Tests.ExpectExceptionTest.TestMismatchedExceptionMessageWithUserMessage" />
+                            <Node UniqueName="[0-1539]NUnit.Core.Tests.ExpectExceptionTest.TestMismatchedExceptionName" />
+                            <Node UniqueName="[0-1540]NUnit.Core.Tests.ExpectExceptionTest.TestMismatchedExceptionNameWithUserMessage" />
+                            <Node UniqueName="[0-1537]NUnit.Core.Tests.ExpectExceptionTest.TestMismatchedExceptionType" />
+                            <Node UniqueName="[0-1538]NUnit.Core.Tests.ExpectExceptionTest.TestMismatchedExceptionTypeWithUserMessage" />
+                            <Node UniqueName="[0-1533]NUnit.Core.Tests.ExpectExceptionTest.TestSucceedsWhenSpecifiedExceptionNameAndContainsMatch" />
+                            <Node UniqueName="[0-1534]NUnit.Core.Tests.ExpectExceptionTest.TestSucceedsWhenSpecifiedExceptionNameAndRegexMatch" />
+                            <Node UniqueName="[0-1525]NUnit.Core.Tests.ExpectExceptionTest.TestSucceedsWithSpecifiedExceptionName" />
+                            <Node UniqueName="[0-1532]NUnit.Core.Tests.ExpectExceptionTest.TestSucceedsWithSpecifiedExceptionNameAndExactMatch" />
+                            <Node UniqueName="[0-1531]NUnit.Core.Tests.ExpectExceptionTest.TestSucceedsWithSpecifiedExceptionNameAndMessage_NewFormat" />
+                            <Node UniqueName="[0-1530]NUnit.Core.Tests.ExpectExceptionTest.TestSucceedsWithSpecifiedExceptionNameAndMessage_OldFormat" />
+                            <Node UniqueName="[0-1524]NUnit.Core.Tests.ExpectExceptionTest.TestSucceedsWithSpecifiedExceptionType" />
+                            <Node UniqueName="[0-1528]NUnit.Core.Tests.ExpectExceptionTest.TestSucceedsWithSpecifiedExceptionTypeAndContainsMatch" />
+                            <Node UniqueName="[0-1527]NUnit.Core.Tests.ExpectExceptionTest.TestSucceedsWithSpecifiedExceptionTypeAndExactMatch" />
+                            <Node UniqueName="[0-1526]NUnit.Core.Tests.ExpectExceptionTest.TestSucceedsWithSpecifiedExceptionTypeAndMessage" />
+                            <Node UniqueName="[0-1529]NUnit.Core.Tests.ExpectExceptionTest.TestSucceedsWithSpecifiedExceptionTypeAndRegexMatch" />
+                            <Node UniqueName="[0-1543]NUnit.Core.Tests.ExpectExceptionTest.TestUnspecifiedExceptionNotThrown" />
+                            <Node UniqueName="[0-1544]NUnit.Core.Tests.ExpectExceptionTest.TestUnspecifiedExceptionNotThrownWithUserMessage" />
+                            <Node UniqueName="[0-1556]NUnit.Core.Tests.ExpectExceptionTest.ThrowingMyAppException" />
+                            <Node UniqueName="[0-1557]NUnit.Core.Tests.ExpectExceptionTest.ThrowingMyAppExceptionWithMessage" />
+                            <Node UniqueName="[0-1558]NUnit.Core.Tests.ExpectExceptionTest.ThrowNUnitException" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1564]NUnit.Core.Tests.FailFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1570]NUnit.Core.Tests.FailFixture.BadStackTraceIsHandled" />
+                            <Node UniqueName="[0-1571]NUnit.Core.Tests.FailFixture.CustomExceptionIsHandled" />
+                            <Node UniqueName="[0-1568]NUnit.Core.Tests.FailFixture.FailInheritsFromSystemException" />
+                            <Node UniqueName="[0-1569]NUnit.Core.Tests.FailFixture.FailRecordsInnerException" />
+                            <Node UniqueName="[0-1567]NUnit.Core.Tests.FailFixture.FailThrowsAssertionException" />
+                            <Node UniqueName="[0-1566]NUnit.Core.Tests.FailFixture.VerifyAssertionFailWorks" />
+                            <Node UniqueName="[0-1565]NUnit.Core.Tests.FailFixture.VerifyFailWorks" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1836]NUnit.Core.Tests.FixtureSetupTearDownTest">
+                          <Nodes>
+                            <Node UniqueName="[0-1839]NUnit.Core.Tests.FixtureSetupTearDownTest.CheckInheritedSetUpAndTearDownAreCalled" />
+                            <Node UniqueName="[0-1840]NUnit.Core.Tests.FixtureSetupTearDownTest.CheckInheritedSetUpAndTearDownAreNotCalled" />
+                            <Node UniqueName="[0-1851]NUnit.Core.Tests.FixtureSetupTearDownTest.DisposeCalledWhenFixtureImplementsIDisposable" />
+                            <Node UniqueName="[0-1850]NUnit.Core.Tests.FixtureSetupTearDownTest.FixtureWithNoTestsShouldNotCallFixtureSetUpOrTearDown" />
+                            <Node UniqueName="[0-1841]NUnit.Core.Tests.FixtureSetupTearDownTest.HandleErrorInFixtureSetup" />
+                            <Node UniqueName="[0-1844]NUnit.Core.Tests.FixtureSetupTearDownTest.HandleErrorInFixtureTearDown" />
+                            <Node UniqueName="[0-1845]NUnit.Core.Tests.FixtureSetupTearDownTest.HandleExceptionInFixtureConstructor" />
+                            <Node UniqueName="[0-1843]NUnit.Core.Tests.FixtureSetupTearDownTest.HandleIgnoreInFixtureSetup" />
+                            <Node UniqueName="[0-1847]NUnit.Core.Tests.FixtureSetupTearDownTest.HandleSetUpAndTearDownWithTestInName" />
+                            <Node UniqueName="[0-1849]NUnit.Core.Tests.FixtureSetupTearDownTest.IgnoredFixtureShouldNotCallFixtureSetUpOrTearDown" />
+                            <Node UniqueName="[0-1837]NUnit.Core.Tests.FixtureSetupTearDownTest.MakeSureSetUpAndTearDownAreCalled" />
+                            <Node UniqueName="[0-1838]NUnit.Core.Tests.FixtureSetupTearDownTest.MakeSureSetUpAndTearDownAreCalledOnExplicitFixture" />
+                            <Node UniqueName="[0-1842]NUnit.Core.Tests.FixtureSetupTearDownTest.RerunFixtureAfterSetUpFixed" />
+                            <Node UniqueName="[0-1846]NUnit.Core.Tests.FixtureSetupTearDownTest.RerunFixtureAfterTearDownFixed" />
+                            <Node UniqueName="[0-1848]NUnit.Core.Tests.FixtureSetupTearDownTest.RunningSingleMethodCallsSetUpAndTearDown" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1582]NUnit.Core.Tests.IgnoreFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1583]NUnit.Core.Tests.IgnoreFixture.IgnoreThrowsIgnoreException" />
+                            <Node UniqueName="[0-1587]NUnit.Core.Tests.IgnoreFixture.IgnoreWithUserMessage" />
+                            <Node UniqueName="[0-1590]NUnit.Core.Tests.IgnoreFixture.IgnoreWithUserMessage_ArrayOfArgs" />
+                            <Node UniqueName="[0-1588]NUnit.Core.Tests.IgnoreFixture.IgnoreWithUserMessage_OneArg" />
+                            <Node UniqueName="[0-1589]NUnit.Core.Tests.IgnoreFixture.IgnoreWithUserMessage_ThreeArgs" />
+                            <Node UniqueName="[0-1584]NUnit.Core.Tests.IgnoreFixture.IgnoreWorksForTestCase" />
+                            <Node UniqueName="[0-1585]NUnit.Core.Tests.IgnoreFixture.IgnoreWorksForTestSuite" />
+                            <Node UniqueName="[0-1586]NUnit.Core.Tests.IgnoreFixture.IgnoreWorksFromSetUp" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1591]NUnit.Core.Tests.LegacySuiteTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1595]NUnit.Core.Tests.LegacySuiteTests.SetUpAndTearDownAreCalled" />
+                            <Node UniqueName="[0-1596]NUnit.Core.Tests.LegacySuiteTests.SuitePropertyWithInvalidType" />
+                            <Node UniqueName="[0-1593]NUnit.Core.Tests.LegacySuiteTests.SuiteReturningFixtures" />
+                            <Node UniqueName="[0-1592]NUnit.Core.Tests.LegacySuiteTests.SuiteReturningTestSuite" />
+                            <Node UniqueName="[0-1594]NUnit.Core.Tests.LegacySuiteTests.SuiteReturningTypes" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1597]NUnit.Core.Tests.NameFilterTest">
+                          <Nodes>
+                            <Node UniqueName="[0-1603]NUnit.Core.Tests.NameFilterTest.ExplicitTestCaseDoesNotMatchWhenNotSelectedDirectly" />
+                            <Node UniqueName="[0-1604]NUnit.Core.Tests.NameFilterTest.ExplicitTestCaseMatchesWhenSelectedDirectly" />
+                            <Node UniqueName="[0-1605]NUnit.Core.Tests.NameFilterTest.ExplicitTestSuiteDoesNotMatchWhenNotSelectedDirectly" />
+                            <Node UniqueName="[0-1606]NUnit.Core.Tests.NameFilterTest.ExplicitTestSuiteMatchesWhenSelectedDirectly" />
+                            <Node UniqueName="[0-1602]NUnit.Core.Tests.NameFilterTest.HighLevelSuite" />
+                            <Node UniqueName="[0-1599]NUnit.Core.Tests.NameFilterTest.MultipleNameMatch" />
+                            <Node UniqueName="[0-1598]NUnit.Core.Tests.NameFilterTest.SingleNameMatch" />
+                            <Node UniqueName="[0-1600]NUnit.Core.Tests.NameFilterTest.SuiteNameMatch" />
+                            <Node UniqueName="[0-1601]NUnit.Core.Tests.NameFilterTest.TestDoesNotMatch" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1607]NUnit.Core.Tests.NamespaceAssemblyTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1610]NUnit.Core.Tests.NamespaceAssemblyTests.Hierarchy" />
+                            <Node UniqueName="[0-1608]NUnit.Core.Tests.NamespaceAssemblyTests.LoadTestFixtureFromAssembly" />
+                            <Node UniqueName="[0-1611]NUnit.Core.Tests.NamespaceAssemblyTests.NoNamespaceInAssembly" />
+                            <Node UniqueName="[0-1609]NUnit.Core.Tests.NamespaceAssemblyTests.TestRoot" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1612]NUnit.Core.Tests.PlatformDetectionTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1632]NUnit.Core.Tests.PlatformDetectionTests.ArrayOfPlatforms" />
+                            <Node UniqueName="[0-1631]NUnit.Core.Tests.PlatformDetectionTests.DetectExactVersion" />
+                            <Node UniqueName="[0-1629]NUnit.Core.Tests.PlatformDetectionTests.DetectMono10" />
+                            <Node UniqueName="[0-1630]NUnit.Core.Tests.PlatformDetectionTests.DetectMono20" />
+                            <Node UniqueName="[0-1624]NUnit.Core.Tests.PlatformDetectionTests.DetectNet10" />
+                            <Node UniqueName="[0-1625]NUnit.Core.Tests.PlatformDetectionTests.DetectNet11" />
+                            <Node UniqueName="[0-1626]NUnit.Core.Tests.PlatformDetectionTests.DetectNet20" />
+                            <Node UniqueName="[0-1627]NUnit.Core.Tests.PlatformDetectionTests.DetectNetCF" />
+                            <Node UniqueName="[0-1617]NUnit.Core.Tests.PlatformDetectionTests.DetectNT3" />
+                            <Node UniqueName="[0-1618]NUnit.Core.Tests.PlatformDetectionTests.DetectNT4" />
+                            <Node UniqueName="[0-1628]NUnit.Core.Tests.PlatformDetectionTests.DetectSSCLI" />
+                            <Node UniqueName="[0-1622]NUnit.Core.Tests.PlatformDetectionTests.DetectUnixUnderMicrosoftDotNet" />
+                            <Node UniqueName="[0-1623]NUnit.Core.Tests.PlatformDetectionTests.DetectUnixUnderMono" />
+                            <Node UniqueName="[0-1621]NUnit.Core.Tests.PlatformDetectionTests.DetectWin2003Server" />
+                            <Node UniqueName="[0-1619]NUnit.Core.Tests.PlatformDetectionTests.DetectWin2K" />
+                            <Node UniqueName="[0-1613]NUnit.Core.Tests.PlatformDetectionTests.DetectWin95" />
+                            <Node UniqueName="[0-1614]NUnit.Core.Tests.PlatformDetectionTests.DetectWin98" />
+                            <Node UniqueName="[0-1616]NUnit.Core.Tests.PlatformDetectionTests.DetectWinCE" />
+                            <Node UniqueName="[0-1615]NUnit.Core.Tests.PlatformDetectionTests.DetectWinMe" />
+                            <Node UniqueName="[0-1620]NUnit.Core.Tests.PlatformDetectionTests.DetectWinXP" />
+                            <Node UniqueName="[0-1634]NUnit.Core.Tests.PlatformDetectionTests.PlatformAttribute_Exclude" />
+                            <Node UniqueName="[0-1633]NUnit.Core.Tests.PlatformDetectionTests.PlatformAttribute_Include" />
+                            <Node UniqueName="[0-1635]NUnit.Core.Tests.PlatformDetectionTests.PlatformAttribute_IncludeAndExclude" />
+                            <Node UniqueName="[0-1636]NUnit.Core.Tests.PlatformDetectionTests.PlatformAttribute_InvalidPlatform" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1637]NUnit.Core.Tests.PropertyAttributeTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1641]NUnit.Core.Tests.PropertyAttributeTests.CanDeriveFromPropertyAttribute" />
+                            <Node UniqueName="[0-1639]NUnit.Core.Tests.PropertyAttributeTests.PropertiesWithNumericValues" />
+                            <Node UniqueName="[0-1638]NUnit.Core.Tests.PropertyAttributeTests.PropertyWithStringValue" />
+                            <Node UniqueName="[0-1640]NUnit.Core.Tests.PropertyAttributeTests.PropertyWorksOnFixtures" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1883]NUnit.Core.Tests.ReflectTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1884]NUnit.Core.Tests.ReflectTests.CanDetectAttributes" />
+                            <Node UniqueName="[0-1885]NUnit.Core.Tests.ReflectTests.CanDetectInheritedAttributes" />
+                            <Node UniqueName="[0-1900]NUnit.Core.Tests.ReflectTests.Construct" />
+                            <Node UniqueName="[0-1894]NUnit.Core.Tests.ReflectTests.CountMethodsWithAttribute" />
+                            <Node UniqueName="[0-1886]NUnit.Core.Tests.ReflectTests.GetAttribute" />
+                            <Node UniqueName="[0-1887]NUnit.Core.Tests.ReflectTests.GetAttributes" />
+                            <Node UniqueName="[0-1892]NUnit.Core.Tests.ReflectTests.GetConstructor" />
+                            <Node UniqueName="[0-1888]NUnit.Core.Tests.ReflectTests.GetInheritedAttribute" />
+                            <Node UniqueName="[0-1889]NUnit.Core.Tests.ReflectTests.GetInheritedAttributes" />
+                            <Node UniqueName="[0-1893]NUnit.Core.Tests.ReflectTests.GetMethodWithAttribute" />
+                            <Node UniqueName="[0-1895]NUnit.Core.Tests.ReflectTests.GetNamedMethod" />
+                            <Node UniqueName="[0-1896]NUnit.Core.Tests.ReflectTests.GetNamedMethodWithArgs" />
+                            <Node UniqueName="[0-1898]NUnit.Core.Tests.ReflectTests.GetNamedProperty" />
+                            <Node UniqueName="[0-1899]NUnit.Core.Tests.ReflectTests.GetPropertyValue" />
+                            <Node UniqueName="[0-1897]NUnit.Core.Tests.ReflectTests.GetPropertyWithAttribute" />
+                            <Node UniqueName="[0-1891]NUnit.Core.Tests.ReflectTests.HasInterface" />
+                            <Node UniqueName="[0-1890]NUnit.Core.Tests.ReflectTests.InheritsFrom" />
+                            <Node UniqueName="[0-1901]NUnit.Core.Tests.ReflectTests.InvokeMethod" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1642]NUnit.Core.Tests.RemoteRunnerTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1643]NUnit.Core.Tests.RemoteRunnerTests.CheckRunnerID" />
+                            <Node UniqueName="[0-1648]NUnit.Core.Tests.RemoteRunnerTests.CountTestCases" />
+                            <Node UniqueName="[0-1652]NUnit.Core.Tests.RemoteRunnerTests.CountTestCasesAcrossMultipleAssemblies" />
+                            <Node UniqueName="[0-1644]NUnit.Core.Tests.RemoteRunnerTests.LoadAssembly" />
+                            <Node UniqueName="[0-1646]NUnit.Core.Tests.RemoteRunnerTests.LoadAssemblyWithFixture" />
+                            <Node UniqueName="[0-1645]NUnit.Core.Tests.RemoteRunnerTests.LoadAssemblyWithoutNamespaces" />
+                            <Node UniqueName="[0-1647]NUnit.Core.Tests.RemoteRunnerTests.LoadAssemblyWithSuite" />
+                            <Node UniqueName="[0-1649]NUnit.Core.Tests.RemoteRunnerTests.LoadMultipleAssemblies" />
+                            <Node UniqueName="[0-1650]NUnit.Core.Tests.RemoteRunnerTests.LoadMultipleAssembliesWithFixture" />
+                            <Node UniqueName="[0-1651]NUnit.Core.Tests.RemoteRunnerTests.LoadMultipleAssembliesWithSuite" />
+                            <Node UniqueName="[0-1653]NUnit.Core.Tests.RemoteRunnerTests.RunAssembly" />
+                            <Node UniqueName="[0-1654]NUnit.Core.Tests.RemoteRunnerTests.RunAssemblyUsingBeginAndEndRun" />
+                            <Node UniqueName="[0-1655]NUnit.Core.Tests.RemoteRunnerTests.RunMultipleAssemblies" />
+                            <Node UniqueName="[0-1656]NUnit.Core.Tests.RemoteRunnerTests.RunMultipleAssembliesUsingBeginAndEndRun" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1657]NUnit.Core.Tests.SerializationBug">
+                          <Nodes>
+                            <Node UniqueName="[0-1658]NUnit.Core.Tests.SerializationBug.SaveAndLoad" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1659]NUnit.Core.Tests.SetUpFixtureTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1661]NUnit.Core.Tests.SetUpFixtureTests.AssemblySetUpFixtureReplacesAssemblyNodeInTree" />
+                            <Node UniqueName="[0-1666]NUnit.Core.Tests.SetUpFixtureTests.AssemblySetupFixtureWrapsExecutionOfTest" />
+                            <Node UniqueName="[0-1660]NUnit.Core.Tests.SetUpFixtureTests.NamespaceSetUpFixtureReplacesNamespaceNodeInTree" />
+                            <Node UniqueName="[0-1662]NUnit.Core.Tests.SetUpFixtureTests.NamespaceSetUpFixtureWrapsExecutionOfSingleTest" />
+                            <Node UniqueName="[0-1663]NUnit.Core.Tests.SetUpFixtureTests.NamespaceSetUpFixtureWrapsExecutionOfTwoTests" />
+                            <Node UniqueName="[0-1664]NUnit.Core.Tests.SetUpFixtureTests.NamespaceSetUpFixtureWrapsNestedNamespaceSetUpFixture" />
+                            <Node UniqueName="[0-1665]NUnit.Core.Tests.SetUpFixtureTests.WithTwoSetUpFixtuesOnlyOneIsUsed" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1667]NUnit.Core.Tests.SetUpTest">
+                          <Nodes>
+                            <Node UniqueName="[0-1670]NUnit.Core.Tests.SetUpTest.CheckInheritedSetUpAndTearDownAreCalled" />
+                            <Node UniqueName="[0-1671]NUnit.Core.Tests.SetUpTest.CheckInheritedSetUpAndTearDownAreNotCalled" />
+                            <Node UniqueName="[0-1669]NUnit.Core.Tests.SetUpTest.MakeSureSetUpAndTearDownAreCalled" />
+                            <Node UniqueName="[0-1668]NUnit.Core.Tests.SetUpTest.SetUpAndTearDownCounter" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1672]NUnit.Core.Tests.SimpleNameFilterTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1678]NUnit.Core.Tests.SimpleNameFilterTests.ExplicitTestCaseDoesNotMatchWhenNotSelectedDirectly" />
+                            <Node UniqueName="[0-1679]NUnit.Core.Tests.SimpleNameFilterTests.ExplicitTestCaseMatchesWhenSelectedDirectly" />
+                            <Node UniqueName="[0-1680]NUnit.Core.Tests.SimpleNameFilterTests.ExplicitTestSuiteDoesNotMatchWhenNotSelectedDirectly" />
+                            <Node UniqueName="[0-1681]NUnit.Core.Tests.SimpleNameFilterTests.ExplicitTestSuiteMatchesWhenSelectedDirectly" />
+                            <Node UniqueName="[0-1677]NUnit.Core.Tests.SimpleNameFilterTests.HighLevelSuite" />
+                            <Node UniqueName="[0-1674]NUnit.Core.Tests.SimpleNameFilterTests.MultipleNameMatch" />
+                            <Node UniqueName="[0-1673]NUnit.Core.Tests.SimpleNameFilterTests.SingleNameMatch" />
+                            <Node UniqueName="[0-1675]NUnit.Core.Tests.SimpleNameFilterTests.SuiteNameMatch" />
+                            <Node UniqueName="[0-1676]NUnit.Core.Tests.SimpleNameFilterTests.TestDoesNotMatch" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1682]NUnit.Core.Tests.SimpleTestRunnerTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1683]NUnit.Core.Tests.SimpleTestRunnerTests.CheckRunnerID" />
+                            <Node UniqueName="[0-1688]NUnit.Core.Tests.SimpleTestRunnerTests.CountTestCases" />
+                            <Node UniqueName="[0-1692]NUnit.Core.Tests.SimpleTestRunnerTests.CountTestCasesAcrossMultipleAssemblies" />
+                            <Node UniqueName="[0-1684]NUnit.Core.Tests.SimpleTestRunnerTests.LoadAssembly" />
+                            <Node UniqueName="[0-1686]NUnit.Core.Tests.SimpleTestRunnerTests.LoadAssemblyWithFixture" />
+                            <Node UniqueName="[0-1685]NUnit.Core.Tests.SimpleTestRunnerTests.LoadAssemblyWithoutNamespaces" />
+                            <Node UniqueName="[0-1687]NUnit.Core.Tests.SimpleTestRunnerTests.LoadAssemblyWithSuite" />
+                            <Node UniqueName="[0-1689]NUnit.Core.Tests.SimpleTestRunnerTests.LoadMultipleAssemblies" />
+                            <Node UniqueName="[0-1690]NUnit.Core.Tests.SimpleTestRunnerTests.LoadMultipleAssembliesWithFixture" />
+                            <Node UniqueName="[0-1691]NUnit.Core.Tests.SimpleTestRunnerTests.LoadMultipleAssembliesWithSuite" />
+                            <Node UniqueName="[0-1693]NUnit.Core.Tests.SimpleTestRunnerTests.RunAssembly" />
+                            <Node UniqueName="[0-1694]NUnit.Core.Tests.SimpleTestRunnerTests.RunAssemblyUsingBeginAndEndRun" />
+                            <Node UniqueName="[0-1695]NUnit.Core.Tests.SimpleTestRunnerTests.RunMultipleAssemblies" />
+                            <Node UniqueName="[0-1696]NUnit.Core.Tests.SimpleTestRunnerTests.RunMultipleAssembliesUsingBeginAndEndRun" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1697]NUnit.Core.Tests.StackOverflowTestFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1698]NUnit.Core.Tests.StackOverflowTestFixture.SimpleOverflow" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1478]NUnit.Core.Tests.SuiteBuilderTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1484]NUnit.Core.Tests.SuiteBuilderTests.DiscoverSuite" />
+                            <Node UniqueName="[0-1486]NUnit.Core.Tests.SuiteBuilderTests.FileNotFound" />
+                            <Node UniqueName="[0-1488]NUnit.Core.Tests.SuiteBuilderTests.FixtureNotFound" />
+                            <Node UniqueName="[0-1487]NUnit.Core.Tests.SuiteBuilderTests.InvalidAssembly" />
+                            <Node UniqueName="[0-1479]NUnit.Core.Tests.SuiteBuilderTests.LoadAssembly" />
+                            <Node UniqueName="[0-1480]NUnit.Core.Tests.SuiteBuilderTests.LoadAssemblyWithoutNamespaces" />
+                            <Node UniqueName="[0-1481]NUnit.Core.Tests.SuiteBuilderTests.LoadFixture" />
+                            <Node UniqueName="[0-1483]NUnit.Core.Tests.SuiteBuilderTests.LoadNamespaceAsSuite" />
+                            <Node UniqueName="[0-1482]NUnit.Core.Tests.SuiteBuilderTests.LoadSuite" />
+                            <Node UniqueName="[0-1485]NUnit.Core.Tests.SuiteBuilderTests.WrongReturnTypeSuite" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1701]NUnit.Core.Tests.SuiteBuilderTests_Multiple">
+                          <Nodes>
+                            <Node UniqueName="[0-1702]NUnit.Core.Tests.SuiteBuilderTests_Multiple.BuildSuite" />
+                            <Node UniqueName="[0-1705]NUnit.Core.Tests.SuiteBuilderTests_Multiple.LoadFixture" />
+                            <Node UniqueName="[0-1703]NUnit.Core.Tests.SuiteBuilderTests_Multiple.RootNode" />
+                            <Node UniqueName="[0-1704]NUnit.Core.Tests.SuiteBuilderTests_Multiple.TestCaseCount" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1855]NUnit.Core.Tests.TestAssemblyBuilderTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1857]NUnit.Core.Tests.TestAssemblyBuilderTests.CanLoadAssemblyAtRelativeDirectoryLocation" />
+                            <Node UniqueName="[0-1856]NUnit.Core.Tests.TestAssemblyBuilderTests.CanLoadAssemblyInCurrentDirectory" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1827]NUnit.Core.Tests.TestAttributeFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1829]NUnit.Core.Tests.TestAttributeFixture.Description" />
+                            <Node UniqueName="[0-1830]NUnit.Core.Tests.TestAttributeFixture.DescriptionInResult" />
+                            <Node UniqueName="[0-1832]NUnit.Core.Tests.TestAttributeFixture.FixtureDescription" />
+                            <Node UniqueName="[0-1833]NUnit.Core.Tests.TestAttributeFixture.FixtureDescriptionInResult" />
+                            <Node UniqueName="[0-1831]NUnit.Core.Tests.TestAttributeFixture.NoDescription" />
+                            <Node UniqueName="[0-1828]NUnit.Core.Tests.TestAttributeFixture.ReflectionTest" />
+                            <Node UniqueName="[0-1834]NUnit.Core.Tests.TestAttributeFixture.SeparateDescriptionAttribute" />
+                            <Node UniqueName="[0-1835]NUnit.Core.Tests.TestAttributeFixture.SeparateDescriptionInResult" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1706]NUnit.Core.Tests.TestCaseResultFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1707]NUnit.Core.Tests.TestCaseResultFixture.TestCaseDefault" />
+                            <Node UniqueName="[0-1710]NUnit.Core.Tests.TestCaseResultFixture.TestCaseFailure" />
+                            <Node UniqueName="[0-1709]NUnit.Core.Tests.TestCaseResultFixture.TestCaseNotRun" />
+                            <Node UniqueName="[0-1708]NUnit.Core.Tests.TestCaseResultFixture.TestCaseSuccess" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1711]NUnit.Core.Tests.TestCaseTest">
+                          <Nodes>
+                            <Node UniqueName="[0-1712]NUnit.Core.Tests.TestCaseTest.CreateIgnoredTestCase" />
+                            <Node UniqueName="[0-1714]NUnit.Core.Tests.TestCaseTest.LoadMethodCategories" />
+                            <Node UniqueName="[0-1713]NUnit.Core.Tests.TestCaseTest.RunIgnoredTestCase" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1715]NUnit.Core.Tests.TestConsole">
+                          <Nodes>
+                            <Node UniqueName="[0-1716]NUnit.Core.Tests.TestConsole.ConsoleWrite" />
+                            <Node UniqueName="[0-1717]NUnit.Core.Tests.TestConsole.ConsoleWriteLine" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1852]NUnit.Core.Tests.TestContextTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1854]NUnit.Core.Tests.TestContextTests.SetAndRestoreCurrentCulture" />
+                            <Node UniqueName="[0-1853]NUnit.Core.Tests.TestContextTests.SetAndRestoreCurrentDirectory" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1718]NUnit.Core.Tests.TestDelegateFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1719]NUnit.Core.Tests.TestDelegateFixture.DelegateTest" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1720]NUnit.Core.Tests.TestFixtureBuilderTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1721]NUnit.Core.Tests.TestFixtureBuilderTests.GoodSignature" />
+                            <Node UniqueName="[0-1722]NUnit.Core.Tests.TestFixtureBuilderTests.LoadCategories" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1723]NUnit.Core.Tests.TestFixtureExtension">
+                          <Nodes>
+                            <Node UniqueName="[0-1724]NUnit.Core.Tests.TestFixtureExtension.CheckMultipleSetUp" />
+                            <Node UniqueName="[0-1725]NUnit.Core.Tests.TestFixtureExtension.DerivedTest" />
+                            <Node UniqueName="[0-1726]NUnit.Core.Tests.TestFixtureExtension.InheritSetup" />
+                            <Node UniqueName="[0-1727]NUnit.Core.Tests.TestFixtureExtension.InheritTearDown" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1728]NUnit.Core.Tests.TestFixtureTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1739]NUnit.Core.Tests.TestFixtureTests.CannotRunAbstractDerivedFixture" />
+                            <Node UniqueName="[0-1738]NUnit.Core.Tests.TestFixtureTests.CannotRunAbstractFixture" />
+                            <Node UniqueName="[0-1734]NUnit.Core.Tests.TestFixtureTests.CannotRunBadConstructor" />
+                            <Node UniqueName="[0-1756]NUnit.Core.Tests.TestFixtureTests.CannotRunFixtureSetupWithParameters" />
+                            <Node UniqueName="[0-1755]NUnit.Core.Tests.TestFixtureTests.CannotRunFixtureSetupWithReturnValue" />
+                            <Node UniqueName="[0-1761]NUnit.Core.Tests.TestFixtureTests.CannotRunFixtureTearDownWithParameters" />
+                            <Node UniqueName="[0-1760]NUnit.Core.Tests.TestFixtureTests.CannotRunFixtureTearDownWithReturnValue" />
+                            <Node UniqueName="[0-1737]NUnit.Core.Tests.TestFixtureTests.CannotRunIgnoredFixture" />
+                            <Node UniqueName="[0-1735]NUnit.Core.Tests.TestFixtureTests.CannotRunMultipleSetUp" />
+                            <Node UniqueName="[0-1736]NUnit.Core.Tests.TestFixtureTests.CannotRunMultipleTearDown" />
+                            <Node UniqueName="[0-1740]NUnit.Core.Tests.TestFixtureTests.CannotRunMultipleTestFixtureSetUp" />
+                            <Node UniqueName="[0-1741]NUnit.Core.Tests.TestFixtureTests.CannotRunMultipleTestFixtureTearDown" />
+                            <Node UniqueName="[0-1733]NUnit.Core.Tests.TestFixtureTests.CannotRunNoDefaultConstructor" />
+                            <Node UniqueName="[0-1752]NUnit.Core.Tests.TestFixtureTests.CannotRunPrivateFixtureSetUp" />
+                            <Node UniqueName="[0-1757]NUnit.Core.Tests.TestFixtureTests.CannotRunPrivateFixtureTearDown" />
+                            <Node UniqueName="[0-1742]NUnit.Core.Tests.TestFixtureTests.CannotRunPrivateSetUp" />
+                            <Node UniqueName="[0-1747]NUnit.Core.Tests.TestFixtureTests.CannotRunPrivateTearDown" />
+                            <Node UniqueName="[0-1753]NUnit.Core.Tests.TestFixtureTests.CannotRunProtectedFixtureSetUp" />
+                            <Node UniqueName="[0-1758]NUnit.Core.Tests.TestFixtureTests.CannotRunProtectedFixtureTearDown" />
+                            <Node UniqueName="[0-1743]NUnit.Core.Tests.TestFixtureTests.CannotRunProtectedSetUp" />
+                            <Node UniqueName="[0-1748]NUnit.Core.Tests.TestFixtureTests.CannotRunProtectedTearDown" />
+                            <Node UniqueName="[0-1746]NUnit.Core.Tests.TestFixtureTests.CannotRunSetupWithParameters" />
+                            <Node UniqueName="[0-1745]NUnit.Core.Tests.TestFixtureTests.CannotRunSetupWithReturnValue" />
+                            <Node UniqueName="[0-1754]NUnit.Core.Tests.TestFixtureTests.CannotRunStaticFixtureSetUp" />
+                            <Node UniqueName="[0-1759]NUnit.Core.Tests.TestFixtureTests.CannotRunStaticFixtureTearDown" />
+                            <Node UniqueName="[0-1744]NUnit.Core.Tests.TestFixtureTests.CannotRunStaticSetUp" />
+                            <Node UniqueName="[0-1749]NUnit.Core.Tests.TestFixtureTests.CannotRunStaticTearDown" />
+                            <Node UniqueName="[0-1751]NUnit.Core.Tests.TestFixtureTests.CannotRunTearDownWithParameters" />
+                            <Node UniqueName="[0-1750]NUnit.Core.Tests.TestFixtureTests.CannotRunTearDownWithReturnValue" />
+                            <Node UniqueName="[0-1732]NUnit.Core.Tests.TestFixtureTests.ConstructFromDoublyNestedType" />
+                            <Node UniqueName="[0-1731]NUnit.Core.Tests.TestFixtureTests.ConstructFromNestedType" />
+                            <Node UniqueName="[0-1729]NUnit.Core.Tests.TestFixtureTests.ConstructFromType" />
+                            <Node UniqueName="[0-1730]NUnit.Core.Tests.TestFixtureTests.ConstructFromTypeWithoutNamespace" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1699]NUnit.Core.Tests.TestFrameworkTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1700]NUnit.Core.Tests.TestFrameworkTests.NUnitFrameworkIsKnownAndReferenced" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1762]NUnit.Core.Tests.TestIDTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1763]NUnit.Core.Tests.TestIDTests.ClonedTestIDsAreEqual" />
+                            <Node UniqueName="[0-1764]NUnit.Core.Tests.TestIDTests.DifferentTestIDsAreNotEqual" />
+                            <Node UniqueName="[0-1765]NUnit.Core.Tests.TestIDTests.DifferentTestIDsDisplayDifferentStrings" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1495]NUnit.Core.Tests.TestInfoTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1496]NUnit.Core.Tests.TestInfoTests.ConstructFromFixture" />
+                            <Node UniqueName="[0-1497]NUnit.Core.Tests.TestInfoTests.ConstructFromSuite" />
+                            <Node UniqueName="[0-1498]NUnit.Core.Tests.TestInfoTests.ConstructFromTestCase" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1786]NUnit.Core.Tests.TestNameTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1788]NUnit.Core.Tests.TestNameTests.CanCompareStrongTestNames" />
+                            <Node UniqueName="[0-1789]NUnit.Core.Tests.TestNameTests.CanCompareWeakAndStrongTestNames" />
+                            <Node UniqueName="[0-1787]NUnit.Core.Tests.TestNameTests.CanCompareWeakTestNames" />
+                            <Node UniqueName="[0-1792]NUnit.Core.Tests.TestNameTests.CanDisplayUniqueNames" />
+                            <Node UniqueName="[0-1793]NUnit.Core.Tests.TestNameTests.CanParseSimpleTestNames" />
+                            <Node UniqueName="[0-1795]NUnit.Core.Tests.TestNameTests.CanParseStrongTestNames" />
+                            <Node UniqueName="[0-1794]NUnit.Core.Tests.TestNameTests.CanParseWeakTestNames" />
+                            <Node UniqueName="[0-1791]NUnit.Core.Tests.TestNameTests.ClonedTestNamesAreEqual" />
+                            <Node UniqueName="[0-1790]NUnit.Core.Tests.TestNameTests.TestNamesWithDifferentRunnerIDsAreNotEqual" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1491]NUnit.Core.Tests.TestNodeTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1494]NUnit.Core.Tests.TestNodeTests.ConstructFromMultipleTests" />
+                            <Node UniqueName="[0-1492]NUnit.Core.Tests.TestNodeTests.ConstructFromSuite" />
+                            <Node UniqueName="[0-1493]NUnit.Core.Tests.TestNodeTests.ConstructFromTestCase" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1804]NUnit.Core.Tests.TestRunnerThreadTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1807]NUnit.Core.Tests.TestRunnerThreadTests.RunMultipleTests" />
+                            <Node UniqueName="[0-1806]NUnit.Core.Tests.TestRunnerThreadTests.RunNamedTest" />
+                            <Node UniqueName="[0-1805]NUnit.Core.Tests.TestRunnerThreadTests.RunTestSuite" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1808]NUnit.Core.Tests.TestSuiteResultFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-1809]NUnit.Core.Tests.TestSuiteResultFixture.EmptySuite" />
+                            <Node UniqueName="[0-1810]NUnit.Core.Tests.TestSuiteResultFixture.SuiteSuccess" />
+                            <Node UniqueName="[0-1811]NUnit.Core.Tests.TestSuiteResultFixture.TestSuiteFailure" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1766]NUnit.Core.Tests.TestSuiteTest">
+                          <Nodes>
+                            <Node UniqueName="[0-1785]NUnit.Core.Tests.TestSuiteTest.CanSortUsingExternalComparer" />
+                            <Node UniqueName="[0-1779]NUnit.Core.Tests.TestSuiteTest.CountTestCasesFilteredByName" />
+                            <Node UniqueName="[0-1784]NUnit.Core.Tests.TestSuiteTest.DefaultSortIsByName" />
+                            <Node UniqueName="[0-1771]NUnit.Core.Tests.TestSuiteTest.ExcludingCategoryDoesNotRunExplicitTestCases" />
+                            <Node UniqueName="[0-1772]NUnit.Core.Tests.TestSuiteTest.ExcludingCategoryDoesNotRunExplicitTestFixtures" />
+                            <Node UniqueName="[0-1773]NUnit.Core.Tests.TestSuiteTest.InheritedTestCount" />
+                            <Node UniqueName="[0-1770]NUnit.Core.Tests.TestSuiteTest.RunExplicitTestByCategory" />
+                            <Node UniqueName="[0-1769]NUnit.Core.Tests.TestSuiteTest.RunExplicitTestByName" />
+                            <Node UniqueName="[0-1768]NUnit.Core.Tests.TestSuiteTest.RunExplicitTestDirectly" />
+                            <Node UniqueName="[0-1776]NUnit.Core.Tests.TestSuiteTest.RunNoTestSuite" />
+                            <Node UniqueName="[0-1783]NUnit.Core.Tests.TestSuiteTest.RunSingleTest" />
+                            <Node UniqueName="[0-1782]NUnit.Core.Tests.TestSuiteTest.RunSuiteByCategory" />
+                            <Node UniqueName="[0-1778]NUnit.Core.Tests.TestSuiteTest.RunSuiteByName" />
+                            <Node UniqueName="[0-1780]NUnit.Core.Tests.TestSuiteTest.RunTestByCategory" />
+                            <Node UniqueName="[0-1777]NUnit.Core.Tests.TestSuiteTest.RunTestByName" />
+                            <Node UniqueName="[0-1781]NUnit.Core.Tests.TestSuiteTest.RunTestExcludingCategory" />
+                            <Node UniqueName="[0-1767]NUnit.Core.Tests.TestSuiteTest.RunTestsInFixture" />
+                            <Node UniqueName="[0-1774]NUnit.Core.Tests.TestSuiteTest.SuiteRunInitialized" />
+                            <Node UniqueName="[0-1775]NUnit.Core.Tests.TestSuiteTest.SuiteWithNoTests" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1812]NUnit.Core.Tests.ThreadedTestRunnerTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1813]NUnit.Core.Tests.ThreadedTestRunnerTests.CheckRunnerID" />
+                            <Node UniqueName="[0-1818]NUnit.Core.Tests.ThreadedTestRunnerTests.CountTestCases" />
+                            <Node UniqueName="[0-1822]NUnit.Core.Tests.ThreadedTestRunnerTests.CountTestCasesAcrossMultipleAssemblies" />
+                            <Node UniqueName="[0-1814]NUnit.Core.Tests.ThreadedTestRunnerTests.LoadAssembly" />
+                            <Node UniqueName="[0-1816]NUnit.Core.Tests.ThreadedTestRunnerTests.LoadAssemblyWithFixture" />
+                            <Node UniqueName="[0-1815]NUnit.Core.Tests.ThreadedTestRunnerTests.LoadAssemblyWithoutNamespaces" />
+                            <Node UniqueName="[0-1817]NUnit.Core.Tests.ThreadedTestRunnerTests.LoadAssemblyWithSuite" />
+                            <Node UniqueName="[0-1819]NUnit.Core.Tests.ThreadedTestRunnerTests.LoadMultipleAssemblies" />
+                            <Node UniqueName="[0-1820]NUnit.Core.Tests.ThreadedTestRunnerTests.LoadMultipleAssembliesWithFixture" />
+                            <Node UniqueName="[0-1821]NUnit.Core.Tests.ThreadedTestRunnerTests.LoadMultipleAssembliesWithSuite" />
+                            <Node UniqueName="[0-1823]NUnit.Core.Tests.ThreadedTestRunnerTests.RunAssembly" />
+                            <Node UniqueName="[0-1824]NUnit.Core.Tests.ThreadedTestRunnerTests.RunAssemblyUsingBeginAndEndRun" />
+                            <Node UniqueName="[0-1825]NUnit.Core.Tests.ThreadedTestRunnerTests.RunMultipleAssemblies" />
+                            <Node UniqueName="[0-1826]NUnit.Core.Tests.ThreadedTestRunnerTests.RunMultipleAssembliesUsingBeginAndEndRun" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1875]NUnit.Core.Tests.UnhandledExceptionTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1876]NUnit.Core.Tests.UnhandledExceptionTests.Normal" />
+                            <Node UniqueName="[0-1877]NUnit.Core.Tests.UnhandledExceptionTests.Threaded" />
+                            <Node UniqueName="[0-1879]NUnit.Core.Tests.UnhandledExceptionTests.ThreadedAndForget" />
+                            <Node UniqueName="[0-1878]NUnit.Core.Tests.UnhandledExceptionTests.ThreadedAndWait" />
+                            <Node UniqueName="[0-1880]NUnit.Core.Tests.UnhandledExceptionTests.ThreadedAssert" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1869]NUnit.Core.Tests.XmlTest">
+                          <Nodes>
+                            <Node UniqueName="[0-1874]NUnit.Core.Tests.XmlTest.removeTime" />
+                            <Node UniqueName="[0-1873]NUnit.Core.Tests.XmlTest.TestSchemaValidatorFrenchCulture" />
+                            <Node UniqueName="[0-1870]NUnit.Core.Tests.XmlTest.TestSchemaValidatorInvariantCulture" />
+                            <Node UniqueName="[0-1871]NUnit.Core.Tests.XmlTest.TestSchemaValidatorUnitedStatesCulture" />
+                            <Node UniqueName="[0-1872]NUnit.Core.Tests.XmlTest.TestStream" />
+                          </Nodes>
+                        </Node>
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+        <Node UniqueName="[0-2201]C:\program files\NUnit 2.4.8\bin\nunit.util.tests.dll" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-2202]NUnit" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-2203]NUnit.Util" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-2181]NUnit.Util.Tests.ServiceManagerSetUpFixture" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1943]NUnit.Util.Tests.AssemblyListTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1947]NUnit.Util.Tests.AssemblyListTests.AddFiresChangedEvent" />
+                            <Node UniqueName="[0-1945]NUnit.Util.Tests.AssemblyListTests.CanAddAssemblies" />
+                            <Node UniqueName="[0-1948]NUnit.Util.Tests.AssemblyListTests.CanRemoveAssemblies" />
+                            <Node UniqueName="[0-1944]NUnit.Util.Tests.AssemblyListTests.EmptyList" />
+                            <Node UniqueName="[0-1946]NUnit.Util.Tests.AssemblyListTests.MustAddAbsolutePath" />
+                            <Node UniqueName="[0-1949]NUnit.Util.Tests.AssemblyListTests.RemoveAtFiresChangedEvent" />
+                            <Node UniqueName="[0-1950]NUnit.Util.Tests.AssemblyListTests.RemoveFiresChangedEvent" />
+                            <Node UniqueName="[0-1951]NUnit.Util.Tests.AssemblyListTests.SettingFullPathFiresChangedEvent" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2076]NUnit.Util.Tests.CategoryManagerTest">
+                          <Nodes>
+                            <Node UniqueName="[0-2081]NUnit.Util.Tests.CategoryManagerTest.CanAddAllAvailableCategoriesInTestTree" />
+                            <Node UniqueName="[0-2078]NUnit.Util.Tests.CategoryManagerTest.CanAddStrings" />
+                            <Node UniqueName="[0-2077]NUnit.Util.Tests.CategoryManagerTest.CanAddStringsWithoutDuplicating" />
+                            <Node UniqueName="[0-2080]NUnit.Util.Tests.CategoryManagerTest.CanAddTestCategories" />
+                            <Node UniqueName="[0-2079]NUnit.Util.Tests.CategoryManagerTest.CanClearEntries" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2182]NUnit.Util.Tests.CategoryParseTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2185]NUnit.Util.Tests.CategoryParseTests.CanParseCompoundCategory" />
+                            <Node UniqueName="[0-2186]NUnit.Util.Tests.CategoryParseTests.CanParseExcludedCategories" />
+                            <Node UniqueName="[0-2188]NUnit.Util.Tests.CategoryParseTests.CanParseMultipleAlternatives" />
+                            <Node UniqueName="[0-2187]NUnit.Util.Tests.CategoryParseTests.CanParseMultipleCategoriesWithAnd" />
+                            <Node UniqueName="[0-2184]NUnit.Util.Tests.CategoryParseTests.CanParseSimpleCategory" />
+                            <Node UniqueName="[0-2183]NUnit.Util.Tests.CategoryParseTests.EmptyStringReturnsEmptyFilter" />
+                            <Node UniqueName="[0-2191]NUnit.Util.Tests.CategoryParseTests.OrAndMinusCombined" />
+                            <Node UniqueName="[0-2192]NUnit.Util.Tests.CategoryParseTests.PlusAndMinusCombined" />
+                            <Node UniqueName="[0-2189]NUnit.Util.Tests.CategoryParseTests.PrecedenceTest" />
+                            <Node UniqueName="[0-2190]NUnit.Util.Tests.CategoryParseTests.PrecedenceTestWithParentheses" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1971]NUnit.Util.Tests.EventDispatcherTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1973]NUnit.Util.Tests.EventDispatcherTests.ProjectLoaded" />
+                            <Node UniqueName="[0-1974]NUnit.Util.Tests.EventDispatcherTests.ProjectLoadFailed" />
+                            <Node UniqueName="[0-1972]NUnit.Util.Tests.EventDispatcherTests.ProjectLoading" />
+                            <Node UniqueName="[0-1976]NUnit.Util.Tests.EventDispatcherTests.ProjectUnloaded" />
+                            <Node UniqueName="[0-1977]NUnit.Util.Tests.EventDispatcherTests.ProjectUnloadFailed" />
+                            <Node UniqueName="[0-1975]NUnit.Util.Tests.EventDispatcherTests.ProjectUnloading" />
+                            <Node UniqueName="[0-1989]NUnit.Util.Tests.EventDispatcherTests.RunFailed" />
+                            <Node UniqueName="[0-1988]NUnit.Util.Tests.EventDispatcherTests.RunFinished" />
+                            <Node UniqueName="[0-1987]NUnit.Util.Tests.EventDispatcherTests.RunStarting" />
+                            <Node UniqueName="[0-1991]NUnit.Util.Tests.EventDispatcherTests.SuiteFinished" />
+                            <Node UniqueName="[0-1990]NUnit.Util.Tests.EventDispatcherTests.SuiteStarting" />
+                            <Node UniqueName="[0-1993]NUnit.Util.Tests.EventDispatcherTests.TestFinished" />
+                            <Node UniqueName="[0-1979]NUnit.Util.Tests.EventDispatcherTests.TestLoaded" />
+                            <Node UniqueName="[0-1980]NUnit.Util.Tests.EventDispatcherTests.TestLoadFailed" />
+                            <Node UniqueName="[0-1978]NUnit.Util.Tests.EventDispatcherTests.TestLoading" />
+                            <Node UniqueName="[0-1985]NUnit.Util.Tests.EventDispatcherTests.TestReloaded" />
+                            <Node UniqueName="[0-1986]NUnit.Util.Tests.EventDispatcherTests.TestReloadFailed" />
+                            <Node UniqueName="[0-1984]NUnit.Util.Tests.EventDispatcherTests.TestReloading" />
+                            <Node UniqueName="[0-1992]NUnit.Util.Tests.EventDispatcherTests.TestStarting" />
+                            <Node UniqueName="[0-1982]NUnit.Util.Tests.EventDispatcherTests.TestUnloaded" />
+                            <Node UniqueName="[0-1983]NUnit.Util.Tests.EventDispatcherTests.TestUnloadFailed" />
+                            <Node UniqueName="[0-1981]NUnit.Util.Tests.EventDispatcherTests.TestUnloading" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1994]NUnit.Util.Tests.FileWatcherTest">
+                          <Nodes>
+                            <Node UniqueName="[0-1997]NUnit.Util.Tests.FileWatcherTest.ChangingAttributesDoesNotTriggerWatcher" />
+                            <Node UniqueName="[0-1996]NUnit.Util.Tests.FileWatcherTest.ChangingFileTriggersWatcher" />
+                            <Node UniqueName="[0-1998]NUnit.Util.Tests.FileWatcherTest.CopyingFileDoesNotTriggerWatcher" />
+                            <Node UniqueName="[0-1995]NUnit.Util.Tests.FileWatcherTest.MultipleCloselySpacedChangesTriggerWatcherOnlyOnce" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1936]NUnit.Util.Tests.MemorySettingsStorageTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1937]NUnit.Util.Tests.MemorySettingsStorageTests.MakeStorage" />
+                            <Node UniqueName="[0-1940]NUnit.Util.Tests.MemorySettingsStorageTests.MakeSubStorages" />
+                            <Node UniqueName="[0-1939]NUnit.Util.Tests.MemorySettingsStorageTests.RemoveSettings" />
+                            <Node UniqueName="[0-1938]NUnit.Util.Tests.MemorySettingsStorageTests.SaveAndLoadSettings" />
+                            <Node UniqueName="[0-1941]NUnit.Util.Tests.MemorySettingsStorageTests.SubstorageSettings" />
+                            <Node UniqueName="[0-1942]NUnit.Util.Tests.MemorySettingsStorageTests.TypeSafeSettings" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1999]NUnit.Util.Tests.NUnitProjectLoad">
+                          <Nodes>
+                            <Node UniqueName="[0-2004]NUnit.Util.Tests.NUnitProjectLoad.FromAssembly" />
+                            <Node UniqueName="[0-2009]NUnit.Util.Tests.NUnitProjectLoad.FromCppProject" />
+                            <Node UniqueName="[0-2006]NUnit.Util.Tests.NUnitProjectLoad.FromCSharpProject" />
+                            <Node UniqueName="[0-2008]NUnit.Util.Tests.NUnitProjectLoad.FromJsharpProject" />
+                            <Node UniqueName="[0-2015]NUnit.Util.Tests.NUnitProjectLoad.FromMakefileProject" />
+                            <Node UniqueName="[0-2010]NUnit.Util.Tests.NUnitProjectLoad.FromProjectWithHebrewFileIncluded" />
+                            <Node UniqueName="[0-2007]NUnit.Util.Tests.NUnitProjectLoad.FromVBProject" />
+                            <Node UniqueName="[0-2011]NUnit.Util.Tests.NUnitProjectLoad.FromVSSolution2003" />
+                            <Node UniqueName="[0-2012]NUnit.Util.Tests.NUnitProjectLoad.FromVSSolution2005" />
+                            <Node UniqueName="[0-2013]NUnit.Util.Tests.NUnitProjectLoad.FromWebApplication" />
+                            <Node UniqueName="[0-2001]NUnit.Util.Tests.NUnitProjectLoad.LoadEmptyConfigs" />
+                            <Node UniqueName="[0-2000]NUnit.Util.Tests.NUnitProjectLoad.LoadEmptyProject" />
+                            <Node UniqueName="[0-2002]NUnit.Util.Tests.NUnitProjectLoad.LoadNormalProject" />
+                            <Node UniqueName="[0-2003]NUnit.Util.Tests.NUnitProjectLoad.LoadProjectWithManualBinPath" />
+                            <Node UniqueName="[0-2005]NUnit.Util.Tests.NUnitProjectLoad.SaveClearsAssemblyWrapper" />
+                            <Node UniqueName="[0-2014]NUnit.Util.Tests.NUnitProjectLoad.WithUnmanagedCpp" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2016]NUnit.Util.Tests.NUnitProjectSave">
+                          <Nodes>
+                            <Node UniqueName="[0-2018]NUnit.Util.Tests.NUnitProjectSave.SaveEmptyConfigs" />
+                            <Node UniqueName="[0-2017]NUnit.Util.Tests.NUnitProjectSave.SaveEmptyProject" />
+                            <Node UniqueName="[0-2019]NUnit.Util.Tests.NUnitProjectSave.SaveNormalProject" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2020]NUnit.Util.Tests.NUnitProjectTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2038]NUnit.Util.Tests.NUnitProjectTests.AddConfigMakesProjectDirty" />
+                            <Node UniqueName="[0-2037]NUnit.Util.Tests.NUnitProjectTests.CanAddAssemblies" />
+                            <Node UniqueName="[0-2035]NUnit.Util.Tests.NUnitProjectTests.CanAddConfigs" />
+                            <Node UniqueName="[0-2036]NUnit.Util.Tests.NUnitProjectTests.CanSetActiveConfig" />
+                            <Node UniqueName="[0-2034]NUnit.Util.Tests.NUnitProjectTests.CanSetAppBase" />
+                            <Node UniqueName="[0-2031]NUnit.Util.Tests.NUnitProjectTests.ConfigurationFileFromAssemblies" />
+                            <Node UniqueName="[0-2030]NUnit.Util.Tests.NUnitProjectTests.ConfigurationFileFromAssembly" />
+                            <Node UniqueName="[0-2040]NUnit.Util.Tests.NUnitProjectTests.DefaultActiveConfig" />
+                            <Node UniqueName="[0-2028]NUnit.Util.Tests.NUnitProjectTests.DefaultApplicationBase" />
+                            <Node UniqueName="[0-2029]NUnit.Util.Tests.NUnitProjectTests.DefaultConfigurationFile" />
+                            <Node UniqueName="[0-2032]NUnit.Util.Tests.NUnitProjectTests.DefaultProjectName" />
+                            <Node UniqueName="[0-2021]NUnit.Util.Tests.NUnitProjectTests.IsProjectFile" />
+                            <Node UniqueName="[0-2033]NUnit.Util.Tests.NUnitProjectTests.LoadMakesProjectNotDirty" />
+                            <Node UniqueName="[0-2024]NUnit.Util.Tests.NUnitProjectTests.NewProjectDefaultPath" />
+                            <Node UniqueName="[0-2022]NUnit.Util.Tests.NUnitProjectTests.NewProjectIsEmpty" />
+                            <Node UniqueName="[0-2023]NUnit.Util.Tests.NUnitProjectTests.NewProjectIsNotDirty" />
+                            <Node UniqueName="[0-2025]NUnit.Util.Tests.NUnitProjectTests.NewProjectNotLoadable" />
+                            <Node UniqueName="[0-2043]NUnit.Util.Tests.NUnitProjectTests.RemoveActiveConfig" />
+                            <Node UniqueName="[0-2042]NUnit.Util.Tests.NUnitProjectTests.RemoveConfigMakesProjectDirty" />
+                            <Node UniqueName="[0-2041]NUnit.Util.Tests.NUnitProjectTests.RenameActiveConfig" />
+                            <Node UniqueName="[0-2039]NUnit.Util.Tests.NUnitProjectTests.RenameConfigMakesProjectDirty" />
+                            <Node UniqueName="[0-2047]NUnit.Util.Tests.NUnitProjectTests.SaveAndLoadConfigsWithAssemblies" />
+                            <Node UniqueName="[0-2046]NUnit.Util.Tests.NUnitProjectTests.SaveAndLoadEmptyConfigs" />
+                            <Node UniqueName="[0-2045]NUnit.Util.Tests.NUnitProjectTests.SaveAndLoadEmptyProject" />
+                            <Node UniqueName="[0-2026]NUnit.Util.Tests.NUnitProjectTests.SaveMakesProjectNotDirty" />
+                            <Node UniqueName="[0-2027]NUnit.Util.Tests.NUnitProjectTests.SaveSetsProjectPath" />
+                            <Node UniqueName="[0-2044]NUnit.Util.Tests.NUnitProjectTests.SettingActiveConfigMakesProjectDirty" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2048]NUnit.Util.Tests.NUnitRegistryTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2049]NUnit.Util.Tests.NUnitRegistryTests.CurrentUser" />
+                            <Node UniqueName="[0-2051]NUnit.Util.Tests.NUnitRegistryTests.CurrentUserTestMode" />
+                            <Node UniqueName="[0-2050]NUnit.Util.Tests.NUnitRegistryTests.LocalMachine" />
+                            <Node UniqueName="[0-2052]NUnit.Util.Tests.NUnitRegistryTests.LocalMachineTestMode" />
+                            <Node UniqueName="[0-2053]NUnit.Util.Tests.NUnitRegistryTests.TestClearRoutines" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2054]NUnit.Util.Tests.PathUtilTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2055]NUnit.Util.Tests.PathUtilTests.CheckDefaults" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2063]NUnit.Util.Tests.PathUtilTests_Unix">
+                          <Nodes>
+                            <Node UniqueName="[0-2065]NUnit.Util.Tests.PathUtilTests_Unix.Canonicalize" />
+                            <Node UniqueName="[0-2064]NUnit.Util.Tests.PathUtilTests_Unix.IsAssemblyFileType" />
+                            <Node UniqueName="[0-2069]NUnit.Util.Tests.PathUtilTests_Unix.PathFromUri" />
+                            <Node UniqueName="[0-2066]NUnit.Util.Tests.PathUtilTests_Unix.RelativePath" />
+                            <Node UniqueName="[0-2067]NUnit.Util.Tests.PathUtilTests_Unix.SamePath" />
+                            <Node UniqueName="[0-2068]NUnit.Util.Tests.PathUtilTests_Unix.SamePathOrUnder" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2056]NUnit.Util.Tests.PathUtilTests_Windows">
+                          <Nodes>
+                            <Node UniqueName="[0-2058]NUnit.Util.Tests.PathUtilTests_Windows.Canonicalize" />
+                            <Node UniqueName="[0-2057]NUnit.Util.Tests.PathUtilTests_Windows.IsAssemblyFileType" />
+                            <Node UniqueName="[0-2062]NUnit.Util.Tests.PathUtilTests_Windows.PathFromUri" />
+                            <Node UniqueName="[0-2059]NUnit.Util.Tests.PathUtilTests_Windows.RelativePath" />
+                            <Node UniqueName="[0-2060]NUnit.Util.Tests.PathUtilTests_Windows.SamePath" />
+                            <Node UniqueName="[0-2061]NUnit.Util.Tests.PathUtilTests_Windows.SamePathOrUnder" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2070]NUnit.Util.Tests.ProjectConfigCollectionTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2072]NUnit.Util.Tests.ProjectConfigCollectionTests.AddConfig" />
+                            <Node UniqueName="[0-2073]NUnit.Util.Tests.ProjectConfigCollectionTests.AddMakesProjectDirty" />
+                            <Node UniqueName="[0-2075]NUnit.Util.Tests.ProjectConfigCollectionTests.AddTwoConfigs" />
+                            <Node UniqueName="[0-2074]NUnit.Util.Tests.ProjectConfigCollectionTests.BuildConfigAndAdd" />
+                            <Node UniqueName="[0-2071]NUnit.Util.Tests.ProjectConfigCollectionTests.EmptyCollection" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1952]NUnit.Util.Tests.ProjectConfigTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1960]NUnit.Util.Tests.ProjectConfigTests.AbsoluteBasePath" />
+                            <Node UniqueName="[0-1965]NUnit.Util.Tests.ProjectConfigTests.AbsoluteConfigurationFile" />
+                            <Node UniqueName="[0-1956]NUnit.Util.Tests.ProjectConfigTests.AddMarksProjectDirty" />
+                            <Node UniqueName="[0-1954]NUnit.Util.Tests.ProjectConfigTests.CanAddAssemblies" />
+                            <Node UniqueName="[0-1964]NUnit.Util.Tests.ProjectConfigTests.DefaultConfigurationFile" />
+                            <Node UniqueName="[0-1953]NUnit.Util.Tests.ProjectConfigTests.EmptyConfig" />
+                            <Node UniqueName="[0-1970]NUnit.Util.Tests.ProjectConfigTests.ManualPrivateBinPath" />
+                            <Node UniqueName="[0-1962]NUnit.Util.Tests.ProjectConfigTests.NoBasePathSet" />
+                            <Node UniqueName="[0-1969]NUnit.Util.Tests.ProjectConfigTests.NoPrivateBinPath" />
+                            <Node UniqueName="[0-1961]NUnit.Util.Tests.ProjectConfigTests.RelativeBasePath" />
+                            <Node UniqueName="[0-1966]NUnit.Util.Tests.ProjectConfigTests.RelativeConfigurationFile" />
+                            <Node UniqueName="[0-1958]NUnit.Util.Tests.ProjectConfigTests.RemoveMarksProjectDirty" />
+                            <Node UniqueName="[0-1957]NUnit.Util.Tests.ProjectConfigTests.RenameMarksProjectDirty" />
+                            <Node UniqueName="[0-1959]NUnit.Util.Tests.ProjectConfigTests.SettingApplicationBaseMarksProjectDirty" />
+                            <Node UniqueName="[0-1968]NUnit.Util.Tests.ProjectConfigTests.SettingBinPathTypeMarksProjectDirty" />
+                            <Node UniqueName="[0-1963]NUnit.Util.Tests.ProjectConfigTests.SettingConfigurationFileMarksProjectDirty" />
+                            <Node UniqueName="[0-1967]NUnit.Util.Tests.ProjectConfigTests.SettingPrivateBinPathMarksProjectDirty" />
+                            <Node UniqueName="[0-1955]NUnit.Util.Tests.ProjectConfigTests.ToArray" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2193]NUnit.Util.Tests.RecentFileEntryTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2195]NUnit.Util.Tests.RecentFileEntryTests.CanCreateFromFileNameAndVersion" />
+                            <Node UniqueName="[0-2194]NUnit.Util.Tests.RecentFileEntryTests.CanCreateFromSimpleFileName" />
+                            <Node UniqueName="[0-2199]NUnit.Util.Tests.RecentFileEntryTests.CanParseFileNamePlusVersionString" />
+                            <Node UniqueName="[0-2200]NUnit.Util.Tests.RecentFileEntryTests.CanParseFileNameWithCommaPlusVersionString" />
+                            <Node UniqueName="[0-2197]NUnit.Util.Tests.RecentFileEntryTests.CanParseSimpleFileName" />
+                            <Node UniqueName="[0-2198]NUnit.Util.Tests.RecentFileEntryTests.CanParseSimpleFileNameWithComma" />
+                            <Node UniqueName="[0-2196]NUnit.Util.Tests.RecentFileEntryTests.EntryCanDisplayItself" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-1913]NUnit.Util.Tests.RecentFilesTests">
+                          <Nodes>
+                            <Node UniqueName="[0-1921]NUnit.Util.Tests.RecentFilesTests.AddMaxItems" />
+                            <Node UniqueName="[0-1920]NUnit.Util.Tests.RecentFilesTests.AddSingleItem" />
+                            <Node UniqueName="[0-1922]NUnit.Util.Tests.RecentFilesTests.AddTooManyItems" />
+                            <Node UniqueName="[0-1917]NUnit.Util.Tests.RecentFilesTests.CountAtMax" />
+                            <Node UniqueName="[0-1918]NUnit.Util.Tests.RecentFilesTests.CountAtMin" />
+                            <Node UniqueName="[0-1914]NUnit.Util.Tests.RecentFilesTests.CountDefault" />
+                            <Node UniqueName="[0-1915]NUnit.Util.Tests.RecentFilesTests.CountOverMax" />
+                            <Node UniqueName="[0-1916]NUnit.Util.Tests.RecentFilesTests.CountUnderMin" />
+                            <Node UniqueName="[0-1919]NUnit.Util.Tests.RecentFilesTests.EmptyList" />
+                            <Node UniqueName="[0-1923]NUnit.Util.Tests.RecentFilesTests.IncreaseSize" />
+                            <Node UniqueName="[0-1925]NUnit.Util.Tests.RecentFilesTests.IncreaseSizeAfterAdd" />
+                            <Node UniqueName="[0-1924]NUnit.Util.Tests.RecentFilesTests.ReduceSize" />
+                            <Node UniqueName="[0-1926]NUnit.Util.Tests.RecentFilesTests.ReduceSizeAfterAdd" />
+                            <Node UniqueName="[0-1932]NUnit.Util.Tests.RecentFilesTests.RemoveFirstProject" />
+                            <Node UniqueName="[0-1935]NUnit.Util.Tests.RecentFilesTests.RemoveLastProject" />
+                            <Node UniqueName="[0-1934]NUnit.Util.Tests.RecentFilesTests.RemoveMultipleProjects" />
+                            <Node UniqueName="[0-1933]NUnit.Util.Tests.RecentFilesTests.RemoveOneProject" />
+                            <Node UniqueName="[0-1927]NUnit.Util.Tests.RecentFilesTests.ReorderLastProject" />
+                            <Node UniqueName="[0-1929]NUnit.Util.Tests.RecentFilesTests.ReorderMultipleProjects" />
+                            <Node UniqueName="[0-1930]NUnit.Util.Tests.RecentFilesTests.ReorderSameProject" />
+                            <Node UniqueName="[0-1928]NUnit.Util.Tests.RecentFilesTests.ReorderSingleProject" />
+                            <Node UniqueName="[0-1931]NUnit.Util.Tests.RecentFilesTests.ReorderWithListNotFull" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2082]NUnit.Util.Tests.RegistrySettingsStorageTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2086]NUnit.Util.Tests.RegistrySettingsStorageTests.MakeSubStorages" />
+                            <Node UniqueName="[0-2085]NUnit.Util.Tests.RegistrySettingsStorageTests.RemoveSettings" />
+                            <Node UniqueName="[0-2084]NUnit.Util.Tests.RegistrySettingsStorageTests.SaveAndLoadSettings" />
+                            <Node UniqueName="[0-2083]NUnit.Util.Tests.RegistrySettingsStorageTests.StorageHasCorrectKey" />
+                            <Node UniqueName="[0-2087]NUnit.Util.Tests.RegistrySettingsStorageTests.SubstorageSettings" />
+                            <Node UniqueName="[0-2088]NUnit.Util.Tests.RegistrySettingsStorageTests.TypeSafeSettings" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2175]NUnit.Util.Tests.RemoteTestResultTest">
+                          <Nodes>
+                            <Node UniqueName="[0-2177]NUnit.Util.Tests.RemoteTestResultTest.AppDomainUnloadedBug" />
+                            <Node UniqueName="[0-2176]NUnit.Util.Tests.RemoteTestResultTest.ResultStillValidAfterDomainUnload" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2178]NUnit.Util.Tests.ServerUtilityTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2179]NUnit.Util.Tests.ServerUtilityTests.CanGetTcpChannelOnSpecifiedPort" />
+                            <Node UniqueName="[0-2180]NUnit.Util.Tests.ServerUtilityTests.CanGetTcpChannelOnUnpecifiedPort" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2089]NUnit.Util.Tests.SettingsGroupTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2094]NUnit.Util.Tests.SettingsGroupTests.BadSetting" />
+                            <Node UniqueName="[0-2093]NUnit.Util.Tests.SettingsGroupTests.DefaultSettings" />
+                            <Node UniqueName="[0-2091]NUnit.Util.Tests.SettingsGroupTests.SubGroupSettings" />
+                            <Node UniqueName="[0-2090]NUnit.Util.Tests.SettingsGroupTests.TopLevelSettings" />
+                            <Node UniqueName="[0-2092]NUnit.Util.Tests.SettingsGroupTests.TypeSafeSettings" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2095]NUnit.Util.Tests.SummaryResultFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-2098]NUnit.Util.Tests.SummaryResultFixture.Failure" />
+                            <Node UniqueName="[0-2096]NUnit.Util.Tests.SummaryResultFixture.TestCountNotRunSuites" />
+                            <Node UniqueName="[0-2099]NUnit.Util.Tests.SummaryResultFixture.TestTime" />
+                            <Node UniqueName="[0-2097]NUnit.Util.Tests.SummaryResultFixture.TotalCountSuccess" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2100]NUnit.Util.Tests.TestDomainFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-2102]NUnit.Util.Tests.TestDomainFixture.AppDomainIsSetUpCorrectly" />
+                            <Node UniqueName="[0-2101]NUnit.Util.Tests.TestDomainFixture.AssemblyIsLoadedCorrectly" />
+                            <Node UniqueName="[0-2103]NUnit.Util.Tests.TestDomainFixture.CanRunMockAssemblyTests" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2104]NUnit.Util.Tests.TestDomainRunnerTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2105]NUnit.Util.Tests.TestDomainRunnerTests.CheckRunnerID" />
+                            <Node UniqueName="[0-2110]NUnit.Util.Tests.TestDomainRunnerTests.CountTestCases" />
+                            <Node UniqueName="[0-2114]NUnit.Util.Tests.TestDomainRunnerTests.CountTestCasesAcrossMultipleAssemblies" />
+                            <Node UniqueName="[0-2106]NUnit.Util.Tests.TestDomainRunnerTests.LoadAssembly" />
+                            <Node UniqueName="[0-2108]NUnit.Util.Tests.TestDomainRunnerTests.LoadAssemblyWithFixture" />
+                            <Node UniqueName="[0-2107]NUnit.Util.Tests.TestDomainRunnerTests.LoadAssemblyWithoutNamespaces" />
+                            <Node UniqueName="[0-2109]NUnit.Util.Tests.TestDomainRunnerTests.LoadAssemblyWithSuite" />
+                            <Node UniqueName="[0-2111]NUnit.Util.Tests.TestDomainRunnerTests.LoadMultipleAssemblies" />
+                            <Node UniqueName="[0-2112]NUnit.Util.Tests.TestDomainRunnerTests.LoadMultipleAssembliesWithFixture" />
+                            <Node UniqueName="[0-2113]NUnit.Util.Tests.TestDomainRunnerTests.LoadMultipleAssembliesWithSuite" />
+                            <Node UniqueName="[0-2115]NUnit.Util.Tests.TestDomainRunnerTests.RunAssembly" />
+                            <Node UniqueName="[0-2116]NUnit.Util.Tests.TestDomainRunnerTests.RunAssemblyUsingBeginAndEndRun" />
+                            <Node UniqueName="[0-2117]NUnit.Util.Tests.TestDomainRunnerTests.RunMultipleAssemblies" />
+                            <Node UniqueName="[0-2118]NUnit.Util.Tests.TestDomainRunnerTests.RunMultipleAssembliesUsingBeginAndEndRun" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2119]NUnit.Util.Tests.TestDomainTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2124]NUnit.Util.Tests.TestDomainTests.BasePathOverrideIsHonored" />
+                            <Node UniqueName="[0-2125]NUnit.Util.Tests.TestDomainTests.BinPathOverrideIsHonored" />
+                            <Node UniqueName="[0-2123]NUnit.Util.Tests.TestDomainTests.ConfigFileOverrideIsHonored" />
+                            <Node UniqueName="[0-2120]NUnit.Util.Tests.TestDomainTests.FileNotFound" />
+                            <Node UniqueName="[0-2121]NUnit.Util.Tests.TestDomainTests.InvalidTestFixture" />
+                            <Node UniqueName="[0-2122]NUnit.Util.Tests.TestDomainTests.SpecificTestFixture" />
+                            <Node UniqueName="[0-2126]NUnit.Util.Tests.TestDomainTests.TurnOffShadowCopy" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2127]NUnit.Util.Tests.TestDomainTests_Multiple">
+                          <Nodes>
+                            <Node UniqueName="[0-2130]NUnit.Util.Tests.TestDomainTests_Multiple.AssemblyNodes" />
+                            <Node UniqueName="[0-2128]NUnit.Util.Tests.TestDomainTests_Multiple.BuildSuite" />
+                            <Node UniqueName="[0-2129]NUnit.Util.Tests.TestDomainTests_Multiple.RootNode" />
+                            <Node UniqueName="[0-2132]NUnit.Util.Tests.TestDomainTests_Multiple.RunMultipleAssemblies" />
+                            <Node UniqueName="[0-2131]NUnit.Util.Tests.TestDomainTests_Multiple.TestCaseCount" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2133]NUnit.Util.Tests.TestDomainTests_MultipleFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-2134]NUnit.Util.Tests.TestDomainTests_MultipleFixture.LoadFixture" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2135]NUnit.Util.Tests.TestLoaderAssemblyTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2141]NUnit.Util.Tests.TestLoaderAssemblyTests.AssemblyWithNoTests" />
+                            <Node UniqueName="[0-2140]NUnit.Util.Tests.TestLoaderAssemblyTests.FileNotFound" />
+                            <Node UniqueName="[0-2136]NUnit.Util.Tests.TestLoaderAssemblyTests.LoadProject" />
+                            <Node UniqueName="[0-2138]NUnit.Util.Tests.TestLoaderAssemblyTests.LoadTest" />
+                            <Node UniqueName="[0-2142]NUnit.Util.Tests.TestLoaderAssemblyTests.RunTest" />
+                            <Node UniqueName="[0-2137]NUnit.Util.Tests.TestLoaderAssemblyTests.UnloadProject" />
+                            <Node UniqueName="[0-2139]NUnit.Util.Tests.TestLoaderAssemblyTests.UnloadTest" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2143]NUnit.Util.Tests.VSProjectTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2162]NUnit.Util.Tests.VSProjectTests.FileNotFoundError" />
+                            <Node UniqueName="[0-2160]NUnit.Util.Tests.VSProjectTests.GenerateCorrectExtensionsFromVCProjectVS2005" />
+                            <Node UniqueName="[0-2164]NUnit.Util.Tests.VSProjectTests.InvalidProjectFormat" />
+                            <Node UniqueName="[0-2163]NUnit.Util.Tests.VSProjectTests.InvalidXmlFormat" />
+                            <Node UniqueName="[0-2156]NUnit.Util.Tests.VSProjectTests.LoadCppProject" />
+                            <Node UniqueName="[0-2157]NUnit.Util.Tests.VSProjectTests.LoadCppProjectVS2005" />
+                            <Node UniqueName="[0-2159]NUnit.Util.Tests.VSProjectTests.LoadCppProjectWithMacros" />
+                            <Node UniqueName="[0-2147]NUnit.Util.Tests.VSProjectTests.LoadCsharpProject" />
+                            <Node UniqueName="[0-2148]NUnit.Util.Tests.VSProjectTests.LoadCsharpProjectVS2005" />
+                            <Node UniqueName="[0-2149]NUnit.Util.Tests.VSProjectTests.LoadCsharpProjectVS2005WithoutPlatforms" />
+                            <Node UniqueName="[0-2150]NUnit.Util.Tests.VSProjectTests.LoadCsharpProjectWithMultiplePlatforms" />
+                            <Node UniqueName="[0-2161]NUnit.Util.Tests.VSProjectTests.LoadInvalidFileType" />
+                            <Node UniqueName="[0-2154]NUnit.Util.Tests.VSProjectTests.LoadJsharpProject" />
+                            <Node UniqueName="[0-2155]NUnit.Util.Tests.VSProjectTests.LoadJsharpProjectVS2005" />
+                            <Node UniqueName="[0-2158]NUnit.Util.Tests.VSProjectTests.LoadProjectWithHebrewFileIncluded" />
+                            <Node UniqueName="[0-2152]NUnit.Util.Tests.VSProjectTests.LoadVbProject" />
+                            <Node UniqueName="[0-2153]NUnit.Util.Tests.VSProjectTests.LoadVbProjectVS2005" />
+                            <Node UniqueName="[0-2151]NUnit.Util.Tests.VSProjectTests.LoadXNAWindowsProject" />
+                            <Node UniqueName="[0-2165]NUnit.Util.Tests.VSProjectTests.MissingAttributes" />
+                            <Node UniqueName="[0-2166]NUnit.Util.Tests.VSProjectTests.NoConfigurations" />
+                            <Node UniqueName="[0-2146]NUnit.Util.Tests.VSProjectTests.NotWebProject" />
+                            <Node UniqueName="[0-2145]NUnit.Util.Tests.VSProjectTests.ProjectExtensions" />
+                            <Node UniqueName="[0-2144]NUnit.Util.Tests.VSProjectTests.SolutionExtension" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2167]NUnit.Util.Tests.XmlResultVisitorTest">
+                          <Nodes>
+                            <Node UniqueName="[0-2171]NUnit.Util.Tests.XmlResultVisitorTest.HasMultipleCategories" />
+                            <Node UniqueName="[0-2172]NUnit.Util.Tests.XmlResultVisitorTest.HasMultipleProperties" />
+                            <Node UniqueName="[0-2169]NUnit.Util.Tests.XmlResultVisitorTest.HasSingleCategory" />
+                            <Node UniqueName="[0-2170]NUnit.Util.Tests.XmlResultVisitorTest.HasSingleProperty" />
+                            <Node UniqueName="[0-2168]NUnit.Util.Tests.XmlResultVisitorTest.SuiteResultHasCategories" />
+                            <Node UniqueName="[0-2174]NUnit.Util.Tests.XmlResultVisitorTest.TestHasCultureInfo" />
+                            <Node UniqueName="[0-2173]NUnit.Util.Tests.XmlResultVisitorTest.TestHasEnvironmentInfo" />
+                          </Nodes>
+                        </Node>
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+        <Node UniqueName="[0-2252]C:\program files\NUnit 2.4.8\bin\nunit.mocks.tests.dll" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-2253]NUnit" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-2254]NUnit.Mocks" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-2255]NUnit.Mocks.Tests" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-2238]NUnit.Mocks.Tests.DynamicMockTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2241]NUnit.Mocks.Tests.DynamicMockTests.CallMethod" />
+                            <Node UniqueName="[0-2242]NUnit.Mocks.Tests.DynamicMockTests.CallMethodWithArgs" />
+                            <Node UniqueName="[0-2251]NUnit.Mocks.Tests.DynamicMockTests.CreateMockForMBRClass" />
+                            <Node UniqueName="[0-2250]NUnit.Mocks.Tests.DynamicMockTests.CreateMockForNonMBRClassFails" />
+                            <Node UniqueName="[0-2247]NUnit.Mocks.Tests.DynamicMockTests.DefaultReturnValues" />
+                            <Node UniqueName="[0-2243]NUnit.Mocks.Tests.DynamicMockTests.ExpectedMethod" />
+                            <Node UniqueName="[0-2244]NUnit.Mocks.Tests.DynamicMockTests.ExpectedMethodNotCalled" />
+                            <Node UniqueName="[0-2246]NUnit.Mocks.Tests.DynamicMockTests.MethodWithReturnValue" />
+                            <Node UniqueName="[0-2239]NUnit.Mocks.Tests.DynamicMockTests.MockHasDefaultName" />
+                            <Node UniqueName="[0-2240]NUnit.Mocks.Tests.DynamicMockTests.MockHasNonDefaultName" />
+                            <Node UniqueName="[0-2249]NUnit.Mocks.Tests.DynamicMockTests.OverrideMethodOnDynamicMock" />
+                            <Node UniqueName="[0-2245]NUnit.Mocks.Tests.DynamicMockTests.RefParameter" />
+                            <Node UniqueName="[0-2248]NUnit.Mocks.Tests.DynamicMockTests.WrongReturnType" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2205]NUnit.Mocks.Tests.MockTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2219]NUnit.Mocks.Tests.MockTests.CallMultipleMethodsInDifferentOrder" />
+                            <Node UniqueName="[0-2220]NUnit.Mocks.Tests.MockTests.CallMultipleMethodsSomeWithoutExpectations" />
+                            <Node UniqueName="[0-2235]NUnit.Mocks.Tests.MockTests.ChangeExpectAndReturnToFixedReturn" />
+                            <Node UniqueName="[0-2234]NUnit.Mocks.Tests.MockTests.ChangeFixedReturnToExpectAndReturn" />
+                            <Node UniqueName="[0-2236]NUnit.Mocks.Tests.MockTests.ConstraintArgumentSucceeds" />
+                            <Node UniqueName="[0-2237]NUnit.Mocks.Tests.MockTests.ConstraintArgumentThatFails" />
+                            <Node UniqueName="[0-2221]NUnit.Mocks.Tests.MockTests.ExpectAndReturn" />
+                            <Node UniqueName="[0-2225]NUnit.Mocks.Tests.MockTests.ExpectAndReturnNull" />
+                            <Node UniqueName="[0-2222]NUnit.Mocks.Tests.MockTests.ExpectAndReturnWithArgument" />
+                            <Node UniqueName="[0-2223]NUnit.Mocks.Tests.MockTests.ExpectAndReturnWithWrongArgument" />
+                            <Node UniqueName="[0-2230]NUnit.Mocks.Tests.MockTests.ExpectAndThrowException" />
+                            <Node UniqueName="[0-2231]NUnit.Mocks.Tests.MockTests.ExpectNoCallFails" />
+                            <Node UniqueName="[0-2232]NUnit.Mocks.Tests.MockTests.ExpectNoCallSucceeds" />
+                            <Node UniqueName="[0-2218]NUnit.Mocks.Tests.MockTests.FailWithParametersSpecified" />
+                            <Node UniqueName="[0-2217]NUnit.Mocks.Tests.MockTests.IgnoreArguments" />
+                            <Node UniqueName="[0-2211]NUnit.Mocks.Tests.MockTests.MethodNotCalled" />
+                            <Node UniqueName="[0-2206]NUnit.Mocks.Tests.MockTests.MockHasName" />
+                            <Node UniqueName="[0-2213]NUnit.Mocks.Tests.MockTests.MultipleCallsToSameMethod" />
+                            <Node UniqueName="[0-2224]NUnit.Mocks.Tests.MockTests.MultipleExpectAndReturn" />
+                            <Node UniqueName="[0-2212]NUnit.Mocks.Tests.MockTests.MultipleExpectations" />
+                            <Node UniqueName="[0-2215]NUnit.Mocks.Tests.MockTests.NotEnoughCalls" />
+                            <Node UniqueName="[0-2210]NUnit.Mocks.Tests.MockTests.OneExpectation" />
+                            <Node UniqueName="[0-2216]NUnit.Mocks.Tests.MockTests.RequireArguments" />
+                            <Node UniqueName="[0-2226]NUnit.Mocks.Tests.MockTests.SetReturnValue" />
+                            <Node UniqueName="[0-2228]NUnit.Mocks.Tests.MockTests.SetReturnValueMultipleTimesOnMultipleMethods" />
+                            <Node UniqueName="[0-2227]NUnit.Mocks.Tests.MockTests.SetReturnValueRepeatedCalls" />
+                            <Node UniqueName="[0-2229]NUnit.Mocks.Tests.MockTests.SetReturnValueWithoutCalling" />
+                            <Node UniqueName="[0-2207]NUnit.Mocks.Tests.MockTests.StrictDefaultsToFalse" />
+                            <Node UniqueName="[0-2233]NUnit.Mocks.Tests.MockTests.StrictMode" />
+                            <Node UniqueName="[0-2214]NUnit.Mocks.Tests.MockTests.TooManyCalls" />
+                            <Node UniqueName="[0-2209]NUnit.Mocks.Tests.MockTests.UnexpectedCallsIgnored" />
+                            <Node UniqueName="[0-2208]NUnit.Mocks.Tests.MockTests.VerifyNewMock" />
+                          </Nodes>
+                        </Node>
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+        <Node UniqueName="[0-2340]C:\program files\NUnit 2.4.8\bin\nunit.extensions.tests.dll" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-2341]NUnit" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-2342]NUnit.Core" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-2343]NUnit.Core.Extensions" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-2256]NUnit.Core.Extensions.RepeatedTestFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-2262]NUnit.Core.Extensions.RepeatedTestFixture.CategoryWorksWithRepeatedTest" />
+                            <Node UniqueName="[0-2261]NUnit.Core.Extensions.RepeatedTestFixture.IgnoreWorksWithRepeatedTest" />
+                            <Node UniqueName="[0-2257]NUnit.Core.Extensions.RepeatedTestFixture.RepeatedTestIsBuiltCorrectly" />
+                            <Node UniqueName="[0-2259]NUnit.Core.Extensions.RepeatedTestFixture.RepeatFailOnFirst" />
+                            <Node UniqueName="[0-2260]NUnit.Core.Extensions.RepeatedTestFixture.RepeatFailOnThird" />
+                            <Node UniqueName="[0-2258]NUnit.Core.Extensions.RepeatedTestFixture.RepeatSuccess" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2344]NUnit.Core.Extensions.RowTest" Expanded="true">
+                          <Nodes>
+                            <Node UniqueName="[0-2267]NUnit.Core.Extensions.RowTest.OrderedTest" Expanded="true">
+                              <Nodes>
+                                <Node UniqueName="[0-2268]NUnit.Core.Extensions.RowTest.OrderedTest.Test1_SomeTest" />
+                                <Node UniqueName="[0-2269]NUnit.Core.Extensions.RowTest.OrderedTest.Test2_OtherTest">
+                                  <Nodes>
+                                    <Node UniqueName="[0-2270]NUnit.Core.Extensions.RowTest.OrderedTest.Test2_OtherTest(100)" />
+                                    <Node UniqueName="[0-2271]NUnit.Core.Extensions.RowTest.OrderedTest.Test2_OtherTest(200)" />
+                                  </Nodes>
+                                </Node>
+                                <Node UniqueName="[0-2272]NUnit.Core.Extensions.RowTest.OrderedTest.Test3_OneMoreTest" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-2273]NUnit.Core.Extensions.RowTest.RowTests" Expanded="true">
+                              <Nodes>
+                                <Node UniqueName="[0-2284]NUnit.Core.Extensions.RowTest.RowTests.AddTest">
+                                  <Nodes>
+                                    <Node UniqueName="[0-2285]NUnit.Core.Extensions.RowTest.RowTests.AddTest(1, 2, 3)" />
+                                    <Node UniqueName="[0-2289]NUnit.Core.Extensions.RowTest.RowTests.AddTest(2, 3, 5)" />
+                                    <Node UniqueName="[0-2287]NUnit.Core.Extensions.RowTest.RowTests.AddTest(4, 5, 9)" />
+                                    <Node UniqueName="[0-2286]NUnit.Core.Extensions.RowTest.RowTests.ExceptionTest1(10, 10, 0)" />
+                                    <Node UniqueName="[0-2290]NUnit.Core.Extensions.RowTest.RowTests.ExceptionTest2(1, 1, 0)" />
+                                    <Node UniqueName="[0-2288]NUnit.Core.Extensions.RowTest.RowTests.Special case(3, 4, 8)" />
+                                  </Nodes>
+                                </Node>
+                                <Node UniqueName="[0-2277]NUnit.Core.Extensions.RowTest.RowTests.DivisionTest">
+                                  <Nodes>
+                                    <Node UniqueName="[0-2282]NUnit.Core.Extensions.RowTest.RowTests.DivisionTest(1000, 0, 0)" />
+                                    <Node UniqueName="[0-2283]NUnit.Core.Extensions.RowTest.RowTests.DivisionTest(1000, 10, 100)" />
+                                    <Node UniqueName="[0-2278]NUnit.Core.Extensions.RowTest.RowTests.DivisionTest(-1000, 10, -100)" />
+                                    <Node UniqueName="[0-2280]NUnit.Core.Extensions.RowTest.RowTests.DivisionTest(1000, 1E-05, 100000000)" />
+                                    <Node UniqueName="[0-2279]NUnit.Core.Extensions.RowTest.RowTests.DivisionTest(1000, 7, 142.85715)" />
+                                    <Node UniqueName="[0-2281]NUnit.Core.Extensions.RowTest.RowTests.DivisionTest(4195835, 3145729, 1.3338196)" />
+                                  </Nodes>
+                                </Node>
+                                <Node UniqueName="[0-2291]NUnit.Core.Extensions.RowTest.RowTests.NullArgument">
+                                  <Nodes>
+                                    <Node UniqueName="[0-2292]NUnit.Core.Extensions.RowTest.RowTests.NullArgument(null)" />
+                                  </Nodes>
+                                </Node>
+                                <Node UniqueName="[0-2293]NUnit.Core.Extensions.RowTest.RowTests.SpecialValueNullArgument">
+                                  <Nodes>
+                                    <Node UniqueName="[0-2294]NUnit.Core.Extensions.RowTest.RowTests.SpecialValueNullArgument(null)" />
+                                  </Nodes>
+                                </Node>
+                                <Node UniqueName="[0-2274]NUnit.Core.Extensions.RowTest.RowTests.StaticFieldTest">
+                                  <Nodes>
+                                    <Node UniqueName="[0-2275]NUnit.Core.Extensions.RowTest.RowTests.StaticFieldTest(Class Member, Other string)" />
+                                    <Node UniqueName="[0-2276]NUnit.Core.Extensions.RowTest.RowTests.StaticFieldTest(Other string, Class Member)" />
+                                  </Nodes>
+                                </Node>
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-2263]NUnit.Core.Extensions.RowTest.SetUpMethodsTestFixture" Expanded="true">
+                              <Nodes>
+                                <Node UniqueName="[0-2264]NUnit.Core.Extensions.RowTest.SetUpMethodsTestFixture.ClassMemberTest">
+                                  <Nodes>
+                                    <Node UniqueName="[0-2265]NUnit.Core.Extensions.RowTest.SetUpMethodsTestFixture.ClassMemberTest(So Long,, and Thanks for All the Fish)" />
+                                  </Nodes>
+                                </Node>
+                                <Node UniqueName="[0-2266]NUnit.Core.Extensions.RowTest.SetUpMethodsTestFixture.PrivateClassMemberTest" />
+                              </Nodes>
+                            </Node>
+                            <Node UniqueName="[0-2345]NUnit.Core.Extensions.RowTest.UnitTests" Expanded="true">
+                              <Nodes>
+                                <Node UniqueName="[0-2326]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest">
+                                  <Nodes>
+                                    <Node UniqueName="[0-2337]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.BuildFrom_SetsCommonNUnitAttributes" />
+                                    <Node UniqueName="[0-2336]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.BuildFrom_SetsNameCorrectly" />
+                                    <Node UniqueName="[0-2334]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.BuildFrom_WithExpectedException" />
+                                    <Node UniqueName="[0-2335]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.BuildFrom_WithExpectedExceptionAndExceptionMessage" />
+                                    <Node UniqueName="[0-2339]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.BuildFrom_WithNull" />
+                                    <Node UniqueName="[0-2331]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.BuildFrom_WithoutRows" />
+                                    <Node UniqueName="[0-2332]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.BuildFrom_WithRows" />
+                                    <Node UniqueName="[0-2338]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.BuildFrom_WithSpecialValueNull" />
+                                    <Node UniqueName="[0-2333]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.BuildFrom_WithTestName" />
+                                    <Node UniqueName="[0-2329]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.CanBuildFrom_False" />
+                                    <Node UniqueName="[0-2330]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.CanBuildFrom_True" />
+                                    <Node UniqueName="[0-2328]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.Install_Failure" />
+                                    <Node UniqueName="[0-2327]NUnit.Core.Extensions.RowTest.UnitTests.RowTestAddInTest.Install_Successful" />
+                                  </Nodes>
+                                </Node>
+                                <Node UniqueName="[0-2315]NUnit.Core.Extensions.RowTest.UnitTests.RowTestCaseTest">
+                                  <Nodes>
+                                    <Node UniqueName="[0-2316]NUnit.Core.Extensions.RowTest.UnitTests.RowTestCaseTest.Initialize" />
+                                    <Node UniqueName="[0-2317]NUnit.Core.Extensions.RowTest.UnitTests.RowTestCaseTest.Initialize_TestNameIsMethodName" />
+                                    <Node UniqueName="[0-2318]NUnit.Core.Extensions.RowTest.UnitTests.RowTestCaseTest.Initialize_TestNameIsProvided" />
+                                    <Node UniqueName="[0-2319]NUnit.Core.Extensions.RowTest.UnitTests.RowTestCaseTest.RunTestMethod_WithArguments" />
+                                    <Node UniqueName="[0-2320]NUnit.Core.Extensions.RowTest.UnitTests.RowTestCaseTest.RunTestMethod_WithNullArgument" />
+                                  </Nodes>
+                                </Node>
+                                <Node UniqueName="[0-2302]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest">
+                                  <Nodes>
+                                    <Node UniqueName="[0-2308]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest.GetExpectedExceptionMessage" />
+                                    <Node UniqueName="[0-2307]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest.GetExpectedExceptionType" />
+                                    <Node UniqueName="[0-2303]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest.GetRowArguments" />
+                                    <Node UniqueName="[0-2313]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest.GetRowAttributes_NoRows" />
+                                    <Node UniqueName="[0-2314]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest.GetRowAttributes_TwoRows" />
+                                    <Node UniqueName="[0-2309]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest.GetTestName" />
+                                    <Node UniqueName="[0-2310]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest.IsRowTest_False" />
+                                    <Node UniqueName="[0-2312]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest.IsRowTest_MethodIsNull" />
+                                    <Node UniqueName="[0-2311]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest.IsRowTest_True" />
+                                    <Node UniqueName="[0-2305]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest.IsSpecialValue_False" />
+                                    <Node UniqueName="[0-2306]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest.IsSpecialValue_Null" />
+                                    <Node UniqueName="[0-2304]NUnit.Core.Extensions.RowTest.UnitTests.RowTestFrameworkTest.IsSpecialValue_True" />
+                                  </Nodes>
+                                </Node>
+                                <Node UniqueName="[0-2295]NUnit.Core.Extensions.RowTest.UnitTests.RowTestNameBuilderTest">
+                                  <Nodes>
+                                    <Node UniqueName="[0-2300]NUnit.Core.Extensions.RowTest.UnitTests.RowTestNameBuilderTest.FullTestName" />
+                                    <Node UniqueName="[0-2296]NUnit.Core.Extensions.RowTest.UnitTests.RowTestNameBuilderTest.Initialize" />
+                                    <Node UniqueName="[0-2297]NUnit.Core.Extensions.RowTest.UnitTests.RowTestNameBuilderTest.TestName_IsMethodName" />
+                                    <Node UniqueName="[0-2298]NUnit.Core.Extensions.RowTest.UnitTests.RowTestNameBuilderTest.TestName_IsProvided" />
+                                    <Node UniqueName="[0-2301]NUnit.Core.Extensions.RowTest.UnitTests.RowTestNameBuilderTest.TestName_NullArgument" />
+                                    <Node UniqueName="[0-2299]NUnit.Core.Extensions.RowTest.UnitTests.RowTestNameBuilderTest.TestName_ProvidedTestNameIsEmpty" />
+                                  </Nodes>
+                                </Node>
+                                <Node UniqueName="[0-2321]NUnit.Core.Extensions.RowTest.UnitTests.RowTestSuiteTest">
+                                  <Nodes>
+                                    <Node UniqueName="[0-2322]NUnit.Core.Extensions.RowTest.UnitTests.RowTestSuiteTest.Initialize" />
+                                    <Node UniqueName="[0-2323]NUnit.Core.Extensions.RowTest.UnitTests.RowTestSuiteTest.Run" />
+                                    <Node UniqueName="[0-2324]NUnit.Core.Extensions.RowTest.UnitTests.RowTestSuiteTest.Run_WithoutParent" />
+                                    <Node UniqueName="[0-2325]NUnit.Core.Extensions.RowTest.UnitTests.RowTestSuiteTest.Run_WithTestFilter" />
+                                  </Nodes>
+                                </Node>
+                              </Nodes>
+                            </Node>
+                          </Nodes>
+                        </Node>
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+        <Node UniqueName="[0-2385]C:\program files\NUnit 2.4.8\bin\nunit-console.tests.dll" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-2386]NUnit" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-2387]NUnit.ConsoleRunner" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-2388]NUnit.ConsoleRunner.Tests" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-2346]NUnit.ConsoleRunner.Tests.CommandLineTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2348]NUnit.ConsoleRunner.Tests.CommandLineTests.AllowForwardSlashDefaultsCorrectly" />
+                            <Node UniqueName="[0-2352]NUnit.ConsoleRunner.Tests.CommandLineTests.AssemblyAloneIsValid" />
+                            <Node UniqueName="[0-2350]NUnit.ConsoleRunner.Tests.CommandLineTests.AssemblyName" />
+                            <Node UniqueName="[0-2360]NUnit.ConsoleRunner.Tests.CommandLineTests.FileNameWithoutXmlParameterIsInvalid" />
+                            <Node UniqueName="[0-2351]NUnit.ConsoleRunner.Tests.CommandLineTests.FixtureNamePlusAssemblyIsValid" />
+                            <Node UniqueName="[0-2362]NUnit.ConsoleRunner.Tests.CommandLineTests.HelpTextUsesCorrectDelimiterForPlatform" />
+                            <Node UniqueName="[0-2355]NUnit.ConsoleRunner.Tests.CommandLineTests.InvalidCommandLineParms" />
+                            <Node UniqueName="[0-2353]NUnit.ConsoleRunner.Tests.CommandLineTests.InvalidOption" />
+                            <Node UniqueName="[0-2354]NUnit.ConsoleRunner.Tests.CommandLineTests.NoFixtureNameProvided" />
+                            <Node UniqueName="[0-2347]NUnit.ConsoleRunner.Tests.CommandLineTests.NoParametersCount" />
+                            <Node UniqueName="[0-2349]NUnit.ConsoleRunner.Tests.CommandLineTests.OptionsAreRecognized" />
+                            <Node UniqueName="[0-2359]NUnit.ConsoleRunner.Tests.CommandLineTests.TransformParameter" />
+                            <Node UniqueName="[0-2356]NUnit.ConsoleRunner.Tests.CommandLineTests.XmlParameter" />
+                            <Node UniqueName="[0-2357]NUnit.ConsoleRunner.Tests.CommandLineTests.XmlParameterWithFullPath" />
+                            <Node UniqueName="[0-2358]NUnit.ConsoleRunner.Tests.CommandLineTests.XmlParameterWithFullPathUsingEqualSign" />
+                            <Node UniqueName="[0-2361]NUnit.ConsoleRunner.Tests.CommandLineTests.XmlParameterWithoutFileNameIsInvalid" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2363]NUnit.ConsoleRunner.Tests.CommandLineTests_MultipleAssemblies">
+                          <Nodes>
+                            <Node UniqueName="[0-2366]NUnit.ConsoleRunner.Tests.CommandLineTests_MultipleAssemblies.CheckParameters" />
+                            <Node UniqueName="[0-2368]NUnit.ConsoleRunner.Tests.CommandLineTests_MultipleAssemblies.FixtureParameters" />
+                            <Node UniqueName="[0-2367]NUnit.ConsoleRunner.Tests.CommandLineTests_MultipleAssemblies.FixtureValidate" />
+                            <Node UniqueName="[0-2364]NUnit.ConsoleRunner.Tests.CommandLineTests_MultipleAssemblies.MultipleAssemblyValidate" />
+                            <Node UniqueName="[0-2365]NUnit.ConsoleRunner.Tests.CommandLineTests_MultipleAssemblies.ParameterCount" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2369]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest">
+                          <Nodes>
+                            <Node UniqueName="[0-2377]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.Bug1073539Test" />
+                            <Node UniqueName="[0-2378]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.Bug1311644Test" />
+                            <Node UniqueName="[0-2381]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.CanRunWithMultipleTestDomains" />
+                            <Node UniqueName="[0-2384]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.CanRunWithMultipleTestDomains_NoThread" />
+                            <Node UniqueName="[0-2379]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.CanRunWithoutTestDomain" />
+                            <Node UniqueName="[0-2382]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.CanRunWithoutTestDomain_NoThread" />
+                            <Node UniqueName="[0-2380]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.CanRunWithSingleTestDomain" />
+                            <Node UniqueName="[0-2383]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.CanRunWithSingleTestDomain_NoThread" />
+                            <Node UniqueName="[0-2370]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.FailureFixture" />
+                            <Node UniqueName="[0-2375]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.InvalidAssembly" />
+                            <Node UniqueName="[0-2374]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.InvalidFixture" />
+                            <Node UniqueName="[0-2371]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.MultiFailureFixture" />
+                            <Node UniqueName="[0-2372]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.SuccessFixture" />
+                            <Node UniqueName="[0-2373]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.XmlResult" />
+                            <Node UniqueName="[0-2376]NUnit.ConsoleRunner.Tests.ConsoleRunnerTest.XmlToConsole" />
+                          </Nodes>
+                        </Node>
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+        <Node UniqueName="[0-2439]C:\program files\NUnit 2.4.8\bin\nunit.uikit.tests.dll" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-2440]NUnit" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-2441]NUnit.UiKit" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-2442]NUnit.UiKit.Tests" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-2389]NUnit.UiKit.Tests.AddConfigurationDialogTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2392]NUnit.UiKit.Tests.AddConfigurationDialogTests.CheckComboBox" />
+                            <Node UniqueName="[0-2390]NUnit.UiKit.Tests.AddConfigurationDialogTests.CheckForControls" />
+                            <Node UniqueName="[0-2391]NUnit.UiKit.Tests.AddConfigurationDialogTests.CheckTextBox" />
+                            <Node UniqueName="[0-2394]NUnit.UiKit.Tests.AddConfigurationDialogTests.TestComplexEntry" />
+                            <Node UniqueName="[0-2393]NUnit.UiKit.Tests.AddConfigurationDialogTests.TestSimpleEntry" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2414]NUnit.UiKit.Tests.ErrorDisplayTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2416]NUnit.UiKit.Tests.ErrorDisplayTests.ControlsArePositionedCorrectly" />
+                            <Node UniqueName="[0-2415]NUnit.UiKit.Tests.ErrorDisplayTests.ControlsExist" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2417]NUnit.UiKit.Tests.LongRunningOperationDisplayTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2418]NUnit.UiKit.Tests.LongRunningOperationDisplayTests.CreateDisplay" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2395]NUnit.UiKit.Tests.ProgressBarTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2396]NUnit.UiKit.Tests.ProgressBarTests.TestProgressDisplay" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2402]NUnit.UiKit.Tests.RecentFileMenuHandlerTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2403]NUnit.UiKit.Tests.RecentFileMenuHandlerTests.DisableOnLoadWhenEmpty" />
+                            <Node UniqueName="[0-2404]NUnit.UiKit.Tests.RecentFileMenuHandlerTests.EnableOnLoadWhenNotEmpty" />
+                            <Node UniqueName="[0-2405]NUnit.UiKit.Tests.RecentFileMenuHandlerTests.LoadMenuItems" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2421]NUnit.UiKit.Tests.SimpleTextDisplayTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2427]NUnit.UiKit.Tests.SimpleTextDisplayTests.AppendText_AfterCreation" />
+                            <Node UniqueName="[0-2428]NUnit.UiKit.Tests.SimpleTextDisplayTests.AppendText_BeforeAndAfterCreation" />
+                            <Node UniqueName="[0-2426]NUnit.UiKit.Tests.SimpleTextDisplayTests.AppendText_BeforeCreation" />
+                            <Node UniqueName="[0-2425]NUnit.UiKit.Tests.SimpleTextDisplayTests.ClearText_AfterCreation" />
+                            <Node UniqueName="[0-2424]NUnit.UiKit.Tests.SimpleTextDisplayTests.ClearText_BeforeCreation" />
+                            <Node UniqueName="[0-2423]NUnit.UiKit.Tests.SimpleTextDisplayTests.SetText_AfterCreation" />
+                            <Node UniqueName="[0-2422]NUnit.UiKit.Tests.SimpleTextDisplayTests.SetText_BeforeCreation" />
+                            <Node UniqueName="[0-2429]NUnit.UiKit.Tests.SimpleTextDisplayTests.StressTest" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2397]NUnit.UiKit.Tests.StatusBarTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2398]NUnit.UiKit.Tests.StatusBarTests.TestConstruction" />
+                            <Node UniqueName="[0-2400]NUnit.UiKit.Tests.StatusBarTests.TestFinalDisplay" />
+                            <Node UniqueName="[0-2399]NUnit.UiKit.Tests.StatusBarTests.TestInitialization" />
+                            <Node UniqueName="[0-2401]NUnit.UiKit.Tests.StatusBarTests.TestProgressDisplay" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2430]NUnit.UiKit.Tests.TestSuiteTreeNodeTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2437]NUnit.UiKit.Tests.TestSuiteTreeNodeTests.ClearResult" />
+                            <Node UniqueName="[0-2438]NUnit.UiKit.Tests.TestSuiteTreeNodeTests.ClearResults" />
+                            <Node UniqueName="[0-2431]NUnit.UiKit.Tests.TestSuiteTreeNodeTests.ConstructFromTestInfo" />
+                            <Node UniqueName="[0-2435]NUnit.UiKit.Tests.TestSuiteTreeNodeTests.SetResult_Failure" />
+                            <Node UniqueName="[0-2433]NUnit.UiKit.Tests.TestSuiteTreeNodeTests.SetResult_Ignore" />
+                            <Node UniqueName="[0-2432]NUnit.UiKit.Tests.TestSuiteTreeNodeTests.SetResult_Init" />
+                            <Node UniqueName="[0-2436]NUnit.UiKit.Tests.TestSuiteTreeNodeTests.SetResult_Skipped" />
+                            <Node UniqueName="[0-2434]NUnit.UiKit.Tests.TestSuiteTreeNodeTests.SetResult_Success" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2406]NUnit.UiKit.Tests.TestSuiteTreeViewFixture">
+                          <Nodes>
+                            <Node UniqueName="[0-2408]NUnit.UiKit.Tests.TestSuiteTreeViewFixture.BuildFromResult" />
+                            <Node UniqueName="[0-2407]NUnit.UiKit.Tests.TestSuiteTreeViewFixture.BuildTreeView" />
+                            <Node UniqueName="[0-2409]NUnit.UiKit.Tests.TestSuiteTreeViewFixture.ClearTree" />
+                            <Node UniqueName="[0-2413]NUnit.UiKit.Tests.TestSuiteTreeViewFixture.ProcessChecks" />
+                            <Node UniqueName="[0-2411]NUnit.UiKit.Tests.TestSuiteTreeViewFixture.ReloadTree" />
+                            <Node UniqueName="[0-2412]NUnit.UiKit.Tests.TestSuiteTreeViewFixture.ReloadTreeWithWrongTest" />
+                            <Node UniqueName="[0-2410]NUnit.UiKit.Tests.TestSuiteTreeViewFixture.SetTestResult" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2419]NUnit.UiKit.Tests.VisualStateTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2420]NUnit.UiKit.Tests.VisualStateTests.SaveAndRestoreVisualState" />
+                          </Nodes>
+                        </Node>
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+        <Node UniqueName="[0-2461]C:\program files\NUnit 2.4.8\bin\nunit-gui.tests.dll" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-2462]NUnit" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-2463]NUnit.Gui" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-2464]NUnit.Gui.Tests" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-2443]NUnit.Gui.Tests.CommandLineTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2447]NUnit.Gui.Tests.CommandLineTests.AssemblyName" />
+                            <Node UniqueName="[0-2445]NUnit.Gui.Tests.CommandLineTests.Help" />
+                            <Node UniqueName="[0-2452]NUnit.Gui.Tests.CommandLineTests.HelpTextUsesCorrectDelimiterForPlatform" />
+                            <Node UniqueName="[0-2449]NUnit.Gui.Tests.CommandLineTests.InvalidArgs" />
+                            <Node UniqueName="[0-2450]NUnit.Gui.Tests.CommandLineTests.InvalidCommandLineParms" />
+                            <Node UniqueName="[0-2451]NUnit.Gui.Tests.CommandLineTests.NoNameValuePairs" />
+                            <Node UniqueName="[0-2444]NUnit.Gui.Tests.CommandLineTests.NoParametersCount" />
+                            <Node UniqueName="[0-2446]NUnit.Gui.Tests.CommandLineTests.ShortHelp" />
+                            <Node UniqueName="[0-2448]NUnit.Gui.Tests.CommandLineTests.ValidateSuccessful" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2453]NUnit.Gui.Tests.ExceptionDetailsFormTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2455]NUnit.Gui.Tests.ExceptionDetailsFormTests.ControlsArePositionedCorrectly" />
+                            <Node UniqueName="[0-2454]NUnit.Gui.Tests.ExceptionDetailsFormTests.ControlsExist" />
+                            <Node UniqueName="[0-2456]NUnit.Gui.Tests.ExceptionDetailsFormTests.MessageDisplaysCorrectly" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2457]NUnit.Gui.Tests.ProjectEditorTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2458]NUnit.Gui.Tests.ProjectEditorTests.CheckControls" />
+                            <Node UniqueName="[0-2459]NUnit.Gui.Tests.ProjectEditorTests.InitialFieldValues" />
+                            <Node UniqueName="[0-2460]NUnit.Gui.Tests.ProjectEditorTests.SetProjectBase" />
+                          </Nodes>
+                        </Node>
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+        <Node UniqueName="[0-2473]C:\program files\NUnit 2.4.8\bin\nunit.fixtures.tests.dll" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-2474]NUnit" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-2475]NUnit.Fixtures" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-2476]NUnit.Fixtures.Tests" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-2468]NUnit.Fixtures.Tests.CompilationTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2469]NUnit.Fixtures.Tests.CompilationTests.CheckDefaultSettings" />
+                            <Node UniqueName="[0-2470]NUnit.Fixtures.Tests.CompilationTests.CompileToFile" />
+                            <Node UniqueName="[0-2471]NUnit.Fixtures.Tests.CompilationTests.CompilingBadCodeGivesAnError" />
+                            <Node UniqueName="[0-2472]NUnit.Fixtures.Tests.CompilationTests.LoadTestsFromCompiledAssembly" />
+                          </Nodes>
+                        </Node>
+                        <Node UniqueName="[0-2465]NUnit.Fixtures.Tests.TestTreeTests">
+                          <Nodes>
+                            <Node UniqueName="[0-2466]NUnit.Fixtures.Tests.TestTreeTests.MatchingTreesAreEqual" />
+                            <Node UniqueName="[0-2467]NUnit.Fixtures.Tests.TestTreeTests.NonMatchingTreesAreNotEqual" />
+                          </Nodes>
+                        </Node>
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>
