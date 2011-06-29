@@ -1,0 +1,7 @@
+Usage:
+
+DbSnap.exe <instance> <database> <zipfile>
+
+e.g.:
+
+DbSnap.exe SERVER1\INSTANCE_A MyDB MyDB.zip
