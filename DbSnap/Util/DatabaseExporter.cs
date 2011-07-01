@@ -167,18 +167,24 @@ namespace DbSnap.Util
 
             int maxWorkers, maxIOCP;
             ThreadPool.GetMaxThreads(out maxWorkers, out maxIOCP);
-            Console.WriteLine("Queueing workers using {0}/{1} threads...", maxWorkers, maxIOCP);
-
-            for (int i = 0; i < workerCount; ++i)
+            Console.WriteLine("Queueing {0} workers using {1} threads...", workerCount, maxWorkers);
+            if (workerCount == 0)
             {
-                ThreadPool.QueueUserWorkItem(delegate(Object state)
+                finishedEvent.Set();
+            }
+            else
+            {
+                for (int i = 0; i < workerCount; ++i)
                 {
-                    SaveCachedObject(folder, cache.GetNext());
+                    ThreadPool.QueueUserWorkItem(delegate(Object state)
+                    {
+                        SaveCachedObject(folder, cache.GetNext());
 
-                    Interlocked.Decrement(ref workerCount);
-                    if (workerCount == 0)
-                        finishedEvent.Set();
-                });
+                        Interlocked.Decrement(ref workerCount);
+                        if (workerCount == 0)
+                            finishedEvent.Set();
+                    });
+                }
             }
 
             InitServer(_server);

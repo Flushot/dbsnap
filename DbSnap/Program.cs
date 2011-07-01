@@ -69,7 +69,7 @@ namespace DbSnap
                     DriAll = true
                 });
 
-            //ThreadPool.SetMaxThreads(8, 1000);
+            ThreadPool.SetMaxThreads(8, 1000);
 
             DateTime start = DateTime.Now;
             exporter.SaveZip(zipFile);
